@@ -50,7 +50,7 @@ El código HDL está alojado en la carpeta ***hw***. Allí  están los archivos 
 ## Descripción del firmware
 El código del firmare debe se alojado en la carpeta ***sw***. Allí  están los archivos fuentes dados en clase  y allí deben alojar todo los archivos  diseñados  y desarrollados por los integrantes de grupo y según sea solicitado en la  guía de cada paquete de trabajo.
 
-# Entrega
+## Entrega
 Recuerde tener presente el deadline  de cada paquete de trabajo, a las 8 de la noche del día indicado  se cierra  el sistema  y los grupos no podrán actualizar el repositorio.
 Para actualizar el repositorio deben realizar  el respectivo commit y push, según sea la plataforma que estén utilizando y como se explicó en clase.
 Recuerda también revisar que en la página de github se refleja las actualizaciones realizadas por el grupo de trabajo 
