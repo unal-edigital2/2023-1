@@ -2,41 +2,17 @@
 
 ## Proyecto
 
-El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de obetos por color.
+El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
 
 En las próximas 5 semanas se estará trabajando en la adquisición, procesamiento y visualización de  imágenes. Para ello se hará uso de los siguientes componentes:
 
 * Cámara OV7970 sin FIFO con las siguientes características:
 * Tarjeta STM o Arduino, usado para la navegación del  robot autonomo
 * Tarjeta de desarrollo FPGA, Nexys4, quacho-basic  para ka adquisición y  procesamiento de imagen
-* Sistema de visualización 
-
-En resumen se muestra la configuración del dispositivo que se implementará.
+* Sistema de visualización.
+* Sensores y actuadores según seleccione el grupo.
 
 ![Diagrama](./docs/figs/escenario.png)
-
-Como se observa en el diagrama anterior se debe  diseñar por parte de cada grupo de trabajo el contenido del bloque en verde  el cual se describir a continuación:
-
-
-![Diagrama 2](./docs/figs/estructura_fpga.jpg)
-
-
-En este sentido cada grupo debe trabajar en los bloques internos verdes junto con las interconexiones.  Se proporcionarán los bloques en naranja.
-
-El plan de trabajo propuesto es:
-
-* WP01: Buffer de memoria  [WP01](https://classroom.github.com/g/Ra4G34mi) 
-	* Semana 1: Buffer de memoria  Simulación (TestBench).  Analizar la máxima memoria ram que podemos alojar en la FPGA,  y planear el método de adquisición de los datos de la cámara 
-* WP02  Captura de Datos [WP02](https://classroom.github.com/g/fTcztVJQ)
-	* Semana 2: Captura de datos Construcción del bloque de captura de datos y divisor de frecuencias según hoja de datos de la cámara.
-	* Semana 3: Captura de datos Pruebas físicas con cámara 
-* WP03: Procesador
-	* Semana 4: Procesamiento
-* WP04: Envió de información 
-	* Semana 5: Comunicación serial, GPIO 
-* WP05: Integración
-	* Semana 6: Integración del proyecto y pruebas funcionales
-Semana 7: Presentación  
 
 
 ## Metodología de trabajo 
@@ -68,11 +44,14 @@ La documentación se debe  diligenciar en el archivo README.md, que se encuentra
 El archivo README.md, se debe escribir en formato Markdown. Para aprender cual es el formato de este documento se recomienda revisar el siguiente [link](https://guides.github.com/features/mastering-markdown/) que les da una visión rápida de formato usado para hacer la documentación. 
 Las imágenes, fotos y soportes gráficos deben ser alojados en la carpeta ‘figs’ y deben ser vinculadas en documento README.md.
 
-# Código HDL
-El código HDL está alojado en la carpeta ´src´. Allí  están los archivos fuentes dados en clase  y allí deben alojar todo los archivos  diseñados  y desarrollados por los integrantes de grupo y según sea solicitado en la  guía de cada paquete de trabajo.
+## Descripción de Hardware
+El código HDL está alojado en la carpeta ´hw´. Allí  están los archivos fuentes dados en clase  y allí deben alojar todo los archivos  diseñados  y desarrollados por los integrantes de grupo y según sea solicitado en la  guía de cada paquete de trabajo.
+
+## Descripción del firmware
+El código del firmare debe se alojado en la carpeta ´sw´. Allí  están los archivos fuentes dados en clase  y allí deben alojar todo los archivos  diseñados  y desarrollados por los integrantes de grupo y según sea solicitado en la  guía de cada paquete de trabajo.
 
 # Entrega
-Recuerde tener presente el deadline  de cada paquete de trabajo, a las 8 de  la noche del día indicado  se cierra  el sistema  y los grupos no podrán actualizar el repositorio.
+Recuerde tener presente el deadline  de cada paquete de trabajo, a las 8 de la noche del día indicado  se cierra  el sistema  y los grupos no podrán actualizar el repositorio.
 Para actualizar el repositorio deben realizar  el respectivo commit y push, según sea la plataforma que estén utilizando y como se explicó en clase.
 Recuerda también revisar que en la página de github se refleja las actualizaciones realizadas por el grupo de trabajo 
   
@@ -83,9 +62,8 @@ A continuación se presenta cada actividad a realizar, el plan de trabajo del pr
 
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
-01| semana 1 | 1 Nov | Buffer de memoria | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/Ra4G34mi) 
-02| semana 2 /semana 3 | 15 Nov | Captura de datos | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/fTcztVJQ)  
-03  | semana 4 | 22 Nov | Procesamiento | [link]| 
-03| semana 5 | 29 Nov | Envió de Información | [link]| 
-04| Semana 8 | 6  Dic | Integración | [link] | 
+01| semana 1 | 15 Nov | Captura de datos de la Cámara | [link](./docs/WP01.md) | [WP01]() 
+02 | semana 2 | 22 Nov | Procesamiento e integración | [link]| 
+03| semana 3 | 29 Nov | Envió de Información | [link]| 
+04| Semana 4 | 6  Dic | Integración | [link] | 
 
