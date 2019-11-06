@@ -59,7 +59,6 @@ Recuerda también revisar que en la página de github se refleja las actualizaci
 ## Desarrollo 
 A continuación se presenta cada actividad a realizar, el plan de trabajo del proyecto de cada semana se encuentra en el link de documentación y el link de trabajo se encuentra en la columna  repositorio.
 
-los paquetes de trabajo se encuetran en este [link](https://classroom.github.com/classrooms/57426767-unal-edigital2-2019-2-classroom-2)
 
 
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
