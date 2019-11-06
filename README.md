@@ -1,22 +1,19 @@
-##  ELECTRÓNICA DIGITAL 1 2019 -2 UNIVERSIDAD NACIONAL DE COLOMBIA 
+##  ELECTRÓNICA DIGITAL 2 2019 -2 UNIVERSIDAD NACIONAL DE COLOMBIA 
 
+## Proyecto
 
-## Introducción 
+El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de obetos por color.
 
-En las próximas 6 semanas se estará trabajando en la adquisición, procesamiento y visualización de  imágenes. Para ello se hará uso de los siguientes componentes:
+En las próximas 5 semanas se estará trabajando en la adquisición, procesamiento y visualización de  imágenes. Para ello se hará uso de los siguientes componentes:
 
 * Cámara OV7970 sin FIFO con las siguientes características:
-	* Matriz fotosensible: 640 x 480, el tamaño de la imagen   se puede configurar 
-	* Formato de salida RGB, RGB (GRB4: 2: 2, RGB565 / 555/444) sin formato, YUV (4: 2: 2) e YCbCr (4: 2: 2) Admite VGA, CIF y de CIF a formato 40 x 30.
-	* Se configura  por medio del  bus SCCB (compatible con I2C), para obtener los modos de  configuración se recomienda leer la hoja de datos de la cámara.
-* Tarjeta STM o Arduino, En primera instancia  y para las pruebas iniciales, se hará uso de la tarjeta de procesamiento comerciales, como Arduino o STM32 , 
-* Tarjeta de desarrollo FPGA, Nexys4, quacho-basic 
+* Tarjeta STM o Arduino, usado para la navegación del  robot autonomo
+* Tarjeta de desarrollo FPGA, Nexys4, quacho-basic  para ka adquisición y  procesamiento de imagen
 * Sistema de visualización 
-* Sistema de captura,  sistema manual para iniciar la captura de información
 
 En resumen se muestra la configuración del dispositivo que se implementará.
 
-![Diagrama](./docs/figs/diagramaGeneral.jpg)
+![Diagrama](./docs/figs/escenario.png)
 
 Como se observa en el diagrama anterior se debe  diseñar por parte de cada grupo de trabajo el contenido del bloque en verde  el cual se describir a continuación:
 
