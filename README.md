@@ -64,7 +64,6 @@ A continuación se presenta cada actividad a realizar, el plan de trabajo del pr
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
 01| semana 1 | 15 Nov | Captura de datos de la Cámara | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/sHf0ZmsW) 
-02 | semana 2 | 22 Nov | simulació | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/uuy_pxdA)  
-03| semana 3 | 29 Nov | Envió de Información | [link]| 
-04| Semana 4 | 6  Dic | Integración | [link] | 
+02 | semana 2 | 22 Nov | simulación | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/uuy_pxdA)  
+03| semana 3 | 13 febrero | Envió de Información | [link](./docs/WP03.md) | [WP03](https://classroom.github.com/gvxvPzoJs)
 

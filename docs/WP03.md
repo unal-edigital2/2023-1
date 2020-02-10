@@ -9,7 +9,7 @@ En este paquete de trabajo los estudiantes deben, en primera instancia, integrar
 
 Luego de la integración deben probar la funcionalidad del diseño. Para ello, deben realizar el firmware respectivo, se recomienda enviar la información de la imagen via uart, para probar la integración
 
-Para este paquete de trabajo, el estudiante debe estar inscrito en un grupo y copiar la información del siguiente link [WP03](https://classroom.github.com/g/).
+Para este paquete de trabajo, el estudiante debe estar inscrito en un grupo y copiar la información del siguiente link [WP03](https://classroom.github.com/g/vxvPzoJs).
 Debe escribir la documentación en el archivo README.md de la carpeta docs. Recuerde, esta documentación debe ser tal que, cualquier compañero de futuros semestres comprenda sus anotaciones y la relación con los módulos diseñados. Se deben incluir diagramas de conexión de la FPGA, la descripción funcional y estructural, describir las FSM utilizadas, los mapas de memoria, el firmware del LM32. Recuerde incluir las conexiones del puerto I2C y la cámara. Debe incluir imagenes y/o videos del las pruebas e implementación.
 
 ***Recuerde: Revisar las instrucciones dadas en metodología y documentación.***
@@ -29,7 +29,7 @@ Para este paquete de trabajo se debe contar con:
 
 ## Desarrollo
 
-Una vez clone el repositorio, en su computador de la plantilla del proyecto [WP03](https://classroom.github.com/g/), realizar lo siguiente:
+Una vez clone el repositorio, en su computador de la plantilla del proyecto [WP03](https://classroom.github.com/g/vxvPzoJs), realizar lo siguiente:
 
 1. Integrar el controlador de la cámara al SoC.
 2. Probar el funcionamiento de la cámara vía lm32 y uart.
@@ -42,7 +42,7 @@ Una vez clone el repositorio, en su computador de la plantilla del proyecto [WP0
 
 ***RECUEDE: Es necesario documentar el módulo diseñado con los respectivos diagramas funcionales y estructurales y registrar la información en README.md ***
 
- ### Coevaluación
+## Coevaluación
 
 Cada grupo debe realizar una coevaluación por cada integrante del mismo. El archivo se encuentra en la carpeta coEvaluation.
 
