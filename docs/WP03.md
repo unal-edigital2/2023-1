@@ -24,7 +24,7 @@ Para este paquete de trabajo se debe contar con:
 * IP controlador de la cámara OV7670.
 * Litex. 
 * Toolchain del procesador lm32.
-* Plantilla del proyecto sugerido [WP03](https://classroom.github.com/g/).
+* Plantilla del proyecto sugerido [WP03](https://classroom.github.com/g/vxvPzoJs).
 
 
 ## Desarrollo
