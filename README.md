@@ -67,3 +67,12 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 02 | semana 2 | 22 Nov | simulación | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/uuy_pxdA)  
 03| semana 3 | 13 febrero | Envió de Información | [link](./docs/WP03.md) | [WP03](https://classroom.github.com/gvxvPzoJs)
 
+
+
+
+## ENTREGAS DEL PROYECTO  
+
+GRUPO  | Entrega WP01  | Entrega WP02  |  Entrega Final 
+--     | --            | --            |  --            
+G01    |  [documento](https://github.com/unal-edigital2-2019-2/work01-ramdp-grupo-01/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work01-ramdp-grupo-01) | [documento](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo_1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo_1) | [documento](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-1) 
+G02    |  [documento](https://github.com/unal-edigital2-2019-2/work01-camara-grupo-2/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work01-camara-grupo-2) | [documento](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo-2/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo-2) | [documento](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-2-1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-2-1) 
