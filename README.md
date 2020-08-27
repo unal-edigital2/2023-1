@@ -17,6 +17,19 @@ Se diseñará e implementará un dispositivo digital de mediana complejidad, uti
 Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de generar y publicar en un sitio público github la documentación necesaria para futuras mejoras o correcciones.
 
 
+### Evaluación
+* 15% AutoEvaluación
+* 15% CoEvaluación
+* 70% Proyecto (3 entregas)
+
+### Material de Clase
+
+Semana   | Tema   | Documentación | otros | Video
+--       | --     | --            | -- | --   
+Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | 
+
+
+
 ## Estructura de los Laboratorios y Proyecto 
 
 El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
