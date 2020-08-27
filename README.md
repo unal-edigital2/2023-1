@@ -1,6 +1,23 @@
-##  ELECTRÓNICA DIGITAL 2 2019 -2 UNIVERSIDAD NACIONAL DE COLOMBIA 
+##  ELECTRÓNICA DIGITAL 2 2020-2 UNIVERSIDAD NACIONAL DE COLOMBIA 
 
-## Proyecto
+### Profesor:
+	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
+	fabeltranm@unal.edu.co.
+	github: https://github.com/Fabeltranm/
+
+
+	
+
+### Metodología
+
+El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a  tratar, se dejarán documentos que deben ser analizados por  el estudiante; las dudas se discutirán y aclararán en clase. 
+
+Se diseñará e implementará un dispositivo digital de mediana complejidad, utilizando las herramientas  suministradas y los conocimientos adquiridos; las tareas hardware se implementarán en un un dispositivo lógico programable (FPGA) y las tareas software en un soft-core (SoC) implementado en el mismo.
+
+Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de generar y publicar en un sitio público github la documentación necesaria para futuras mejoras o correcciones.
+
+
+## Estructura de los Laboratorios y Proyecto 
 
 El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
 
@@ -15,7 +32,7 @@ En las próximas 5 semanas se estará trabajando en la adquisición, procesamien
 ![Diagrama](./docs/figs/escenario.png)
 
 
-## Metodología de trabajo 
+### Metodología de trabajo 
 
 Para cada paquete de trabajo se debe clonar la plantilla dada, y los resultados del trabajo de cada grupo deben ser subidos antes de la fecha estipulada. Se recomienda  leer la ayuda de github classroom en este [link](https://education.github.com/) y ver los videos de github de su canal de YouTube de este [link]( https://www.youtube.com/githubguides) o pueden descargar un libro de git del siguiente [link]( https://git-scm.com/book/en/v2)
 Antes de empezar  si no ha tenido ningún acercamiento con los repositorios de git  debe realizar los siguientes pasos:
@@ -63,16 +80,11 @@ A continuación se presenta cada actividad a realizar, el plan de trabajo del pr
 
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
-01| semana 1 | 15 Nov | Captura de datos de la Cámara | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/sHf0ZmsW) 
-02 | semana 2 | 22 Nov | simulación | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/uuy_pxdA)  
-03| semana 3 | 13 febrero | Envió de Información | [link](./docs/WP03.md) | [WP03](https://classroom.github.com/gvxvPzoJs)
+01| semana 1 |  | Captura de datos de la Cámara | [link](./docs/WP01.md) | [WP01](https://classroom.github.com/g/sHf0ZmsW) 
+02 | semana 2 | | simulación | [link](./docs/WP02.md) | [WP02](https://classroom.github.com/g/uuy_pxdA)  
+03| semana 3 |  | Envió de Información | [link](./docs/WP03.md) | [WP03](https://classroom.github.com/gvxvPzoJs)
 
 
 
 
 ## ENTREGAS DEL PROYECTO  
-
-GRUPO  | Entrega WP01  | Entrega WP02  |  Entrega Final 
---     | --            | --            |  --            
-G01    |  [documento](https://github.com/unal-edigital2-2019-2/work01-camara-grupo_1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work01-camara-grupo_1) | [documento](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo_1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo_1) | [documento](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-1) 
-G02    |  [documento](https://github.com/unal-edigital2-2019-2/work01-camara-grupo-2/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work01-camara-grupo-2) | [documento](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo-2/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work02-simulation-grupo-2) | [documento](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-2-1/tree/master/docs/README.md) [repositorio](https://github.com/unal-edigital2-2019-2/work03-lm32-grupo-2-1) 
