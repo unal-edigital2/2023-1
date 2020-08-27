@@ -5,9 +5,15 @@
 	fabeltranm@unal.edu.co.
 	github: https://github.com/Fabeltranm/
 
+## Años anteriores
+* [2015-2018](https://sites.google.com/site/edigital2unal/)
+* [2019](https://unal-edigital2-2019-2.github.io/)
 
+###
+	meet: [https://meet.google.com/ozs-buqf-ogw](https://meet.google.com/ozs-buqf-ogw) 
+	Teoria: Martes y jueves 7-9am
+	Laboratorio; Viernes
 	
-
 ### Metodología
 
 El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a  tratar, se dejarán documentos que deben ser analizados por  el estudiante; las dudas se discutirán y aclararán en clase. 
