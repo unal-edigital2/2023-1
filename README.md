@@ -40,6 +40,18 @@ Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) |
 
 ## Estructura de los Laboratorios y Proyecto 
 
+
+## Cronograma de laboratorios  (Prelabs) 
+
+
+Semana   | Tema   | Guia de laboratorio | WP | deadline 
+--       | --     | --            	| -- | --   
+Semana 1 | instalación linux | [link] | |
+Semana 1 | instalación Viviado/quartus | [link](./labs/lab00.md) | |
+
+
+## Cronograma de laboratorios  (Prelabs) 
+
 El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
 
 En las próximas 5 semanas se estará trabajando en la adquisición, procesamiento y visualización de  imágenes. Para ello se hará uso de los siguientes componentes:
