@@ -34,8 +34,8 @@ Semana   | Tema   | Documentación | otros | Video
 --       | --     | --            | -- | --   
 Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | --| [Video](https://drive.google.com/file/d/1dLjbhscocqIa7I6jn2NwYGuQu105Xo2j/view?usp=sharing)
 Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) |
- |  | [link](./slides/week02/week3_digital2.pdf)
-|  | [link](./slides/week02/week4_digital2.pdf)
+ ||  | [link](./slides/week02/week3_digital2.pdf) |
+| | | [link](./slides/week02/week4_digital2.pdf) |
 
 
 ## Estructura de los Laboratorios y Proyecto 
