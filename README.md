@@ -32,10 +32,10 @@ Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de ge
 
 Semana   | Tema   | Documentación | otros | Video
 --       | --     | --            | -- | --   
-Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | --| [Video](https://drive.google.com/file/d/1dLjbhscocqIa7I6jn2NwYGuQu105Xo2j/view?usp=sharing)
-Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) |
- ||  | [link](./slides/week02/week3_digital2.pdf) |
-| | Procesador J1| [link](./slides/week02/week4_digital2.pdf) |
+Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | --| [Video](https://drive.google.com/file/d/1-MRA4z93bRLjoz2U5Y-_3fY7eJAel586/view?usp=sharing)
+Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1V0mAVGxkBoWnCZYmjJssoDHQovi857c8/view?usp=sharing)
+ ||  | [link](./slides/week02/week3_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1DxM9rNwRU9YTAlfTGf7x1yvqiO99GKFt/view?usp=sharing)
+Semana 3  | intro Procesador caso J1| [link](./slides/week03/week4_digital2.pdf) |
 
 
 ## Estructura de los Laboratorios y Proyecto 
