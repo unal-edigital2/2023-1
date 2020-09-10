@@ -47,7 +47,8 @@ Semana 3  | intro Procesador caso J1| [link](./slides/week03/week4_digital2.pdf)
 Semana   | Tema   | Guia de laboratorio | WP | deadline 
 --       | --     | --            	| -- | --   
 Semana 1 | instalación linux | [link] | |
-Semana 1 | instalación Viviado/quartus | [link](./labs/lab00.md) | |
+Semana 2 | instalación Viviado/quartus | [link](./labs/lab00.md) | |
+Semana 3 |  configuración Vivado -ALU | [link](./labs/lab01.md) | |
 
 
 ## Cronograma de laboratorios  (Prelabs) 
