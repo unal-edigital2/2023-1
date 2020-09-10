@@ -48,7 +48,7 @@ Semana   | Tema   | Guia de laboratorio | WP | deadline
 --       | --     | --            	| -- | --   
 Semana 1 | instalación linux | [link] | |
 Semana 2 | instalación Viviado/quartus | [link](./labs/lab00.md) | |
-Semana 3 |  configuración Vivado -ALU | [link](./labs/lab01.md) | |
+Semana 3 |  configuración Vivado -ALU | [link](./labs/lab01.md) | [wp01](https://classroom.github.com/g/00dJ40MG) |
 
 
 ## Cronograma de laboratorios  (Prelabs) 
