@@ -1,8 +1,8 @@
-# lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
+# lab01: Unidad de suma, resta, multiplicación y visualización BCD
 ## Introducción
 
 
-Para este paquete de trabajo, deben estar inscrito en un grupo y clonar la información del siguiente link [WP01](https://classroom.github.com/g/dHrBou9a). Una vez aceptado el repositorio debe descargarlo en su computador, para ello debe clonar el mismo. Si no sabe cómo hacerlo revise la metodología de trabajo, donde se explica el proceso
+Para este paquete de trabajo, deben estar inscrito en un grupo y clonar la información del siguiente link [WP01](https://classroom.github.com/g/00dJ40MG). Una vez aceptado el repositorio debe descargarlo en su computador, para ello debe clonar el mismo. Si no sabe cómo hacerlo revise la metodología de trabajo, donde se explica el proceso
 
 Las documentación deben estar diligencia en el archivo README.md del repositorio clonado.
 
@@ -45,7 +45,7 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 ## Entregables
 
 1. Definir el diagrama estructurar interno de cada bloque funcionar 
-2. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [WP01](https://classroom.github.com/g/dHrBou9a) Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente.
+2. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [WP01]https://classroom.github.com/g/00dJ40MG) Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente.
 3. Implementar `alu.v` en la FPGA, y  comprobar el funcionamiento  de la suma la multiplicación y la visualización
 4. Incluir el  HDL para le divisor  realizado en el ejercicio anterior, en la carpeta `src/divisor`  y, adicione los archivos e instanciar el bloque divisor.
 5. Diseñar el bloque restador, adicionar dicho bloque a la respectiva carpeta e instanciar el modulo en `alu.v`.
