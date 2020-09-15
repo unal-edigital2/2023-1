@@ -35,8 +35,8 @@ Semana   | Tema   | Documentación | otros | Video
 Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | --| [Video](https://drive.google.com/file/d/1-MRA4z93bRLjoz2U5Y-_3fY7eJAel586/view?usp=sharing)
 Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1V0mAVGxkBoWnCZYmjJssoDHQovi857c8/view?usp=sharing)
  ||  | [link](./slides/week02/week3_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1DxM9rNwRU9YTAlfTGf7x1yvqiO99GKFt/view?usp=sharing)
-Semana 3-4  | intro Procesador caso J1| -- |[link](./slides/week03/week4_digital2.pdf) | [08-09](https://drive.google.com/file/d/1fxwvgRi_AKN2Id5jVjrJED5jvC6A5yd0/view?usp=sharing) [10-09](https://drive.google.com/file/d/1dR1ez_LXOQQZSxOwnhhuMq7laO1phJIT/view?usp=sharing)
-Semana 3-4  | |  |
+Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf) |  -- | [08-09](https://drive.google.com/file/d/1fxwvgRi_AKN2Id5jVjrJED5jvC6A5yd0/view?usp=sharing) [10-09](https://drive.google.com/file/d/1dR1ez_LXOQQZSxOwnhhuMq7laO1phJIT/view?usp=sharing)
+Semana 3-4  | |  | [15-09](https://drive.google.com/file/d/13Ll42h4roKpjanA-PHPOU3zuezlrswg6/view?usp=sharing)
 
 
 
