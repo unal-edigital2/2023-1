@@ -36,7 +36,8 @@ Semana 1 | Introducción  | [link](./slides/week01/week1_digital2.pdf) | --| [Vi
 Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1V0mAVGxkBoWnCZYmjJssoDHQovi857c8/view?usp=sharing)
  ||  | [link](./slides/week02/week3_digital2.pdf) | -- | [Video](https://drive.google.com/file/d/1DxM9rNwRU9YTAlfTGf7x1yvqiO99GKFt/view?usp=sharing)
 Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf) |  -- | [08-09](https://drive.google.com/file/d/1fxwvgRi_AKN2Id5jVjrJED5jvC6A5yd0/view?usp=sharing) [10-09](https://drive.google.com/file/d/1dR1ez_LXOQQZSxOwnhhuMq7laO1phJIT/view?usp=sharing)
-Semana 3-4  | |  |  | [15-09](https://drive.google.com/file/d/13Ll42h4roKpjanA-PHPOU3zuezlrswg6/view?usp=sharing)
+Semana 3-4  | |  |  | [15-09](https://drive.google.com/file/d/13Ll42h4roKpjanA-PHPOU3zuezlrswg6/view?usp=sharing) [17-09](https://drive.google.com/file/d/12zKEz3wcFHwi2c5hycj6-jc9dcLfm5Q9/view?usp=sharing)
+Semana 4-5  | |  |  | [22-09](https://drive.google.com/file/d/14hFJ__S0Dlh5evmi-67OFmQojHIk02Jz/view?usp=sharing) [24-09](https://drive.google.com/file/d/1BzKyJZjGvHU9JfD1sEMTnY2rLMAdVDQy/view?usp=sharing)
 
 
 
