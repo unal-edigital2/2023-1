@@ -39,8 +39,8 @@ Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf
 Semana 3-4  | |  |  | [15-09](https://drive.google.com/file/d/13Ll42h4roKpjanA-PHPOU3zuezlrswg6/view?usp=sharing) [17-09](https://drive.google.com/file/d/12zKEz3wcFHwi2c5hycj6-jc9dcLfm5Q9/view?usp=sharing)
 Semana 4-5  | |  |  | [22-09](https://drive.google.com/file/d/14hFJ__S0Dlh5evmi-67OFmQojHIk02Jz/view?usp=sharing) [24-09](https://drive.google.com/file/d/1BzKyJZjGvHU9JfD1sEMTnY2rLMAdVDQy/view?usp=sharing)  [01-10](https://drive.google.com/file/d/1PYilk_pV_pYthK_JFqFbXoP6R13bpOvp/view?usp=sharing)
 Semana 6 | proyecto  |  | --| [06-10](https://drive.google.com/file/d/1a9u0YJz_BX9IjWiloJpIURRbrYn89qvb/view?usp=sharing)
-
-
+ |  |  | --| 
+[08-10](https://drive.google.com/drive/folders/1c-6zm3gmNN30kML1xg15-J-NXp_uL_0M?usp=sharing)
 
 
 ## Estructura de los Laboratorios y Proyecto 
