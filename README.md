@@ -38,8 +38,11 @@ Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- | [Video](
 Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf) |  -- | [08-09](https://drive.google.com/file/d/1fxwvgRi_AKN2Id5jVjrJED5jvC6A5yd0/view?usp=sharing) [10-09](https://drive.google.com/file/d/1dR1ez_LXOQQZSxOwnhhuMq7laO1phJIT/view?usp=sharing)
 Semana 3-4  | |  |  | [15-09](https://drive.google.com/file/d/13Ll42h4roKpjanA-PHPOU3zuezlrswg6/view?usp=sharing) [17-09](https://drive.google.com/file/d/12zKEz3wcFHwi2c5hycj6-jc9dcLfm5Q9/view?usp=sharing)
 Semana 4-5  | |  |  | [22-09](https://drive.google.com/file/d/14hFJ__S0Dlh5evmi-67OFmQojHIk02Jz/view?usp=sharing) [24-09](https://drive.google.com/file/d/1BzKyJZjGvHU9JfD1sEMTnY2rLMAdVDQy/view?usp=sharing)  [01-10](https://drive.google.com/file/d/1PYilk_pV_pYthK_JFqFbXoP6R13bpOvp/view?usp=sharing)
-Semana 6 | proyecto  |  | --| [06-10](https://drive.google.com/file/d/1a9u0YJz_BX9IjWiloJpIURRbrYn89qvb/view?usp=sharing)  [08-10](https://drive.google.com/drive/folders/1c-6zm3gmNN30kML1xg15-J-NXp_uL_0M?usp=sharing)
+Semana 6-7 | proyecto  |  | --| [06-10](https://drive.google.com/file/d/1a9u0YJz_BX9IjWiloJpIURRbrYn89qvb/view?usp=sharing)  [08-10](https://drive.google.com/drive/folders/1c-6zm3gmNN30kML1xg15-J-NXp_uL_0M?usp=sharing) [08-10](https://drive.google.com/drive/folders/1c-6zm3gmNN30kML1xg15-J-NXp_uL_0M?usp=sharing)
 
+Semana 8 | pipeline  |  | --| [13-10] (https://drive.google.com/drive/folders/1JMaj5-Ob6Ytii19SlXMLUwc89wiC3h7h?usp=sharing) [15-10] (https://drive.google.com/drive/folders/19imwlY3y7yI5iZAdcblrtmVZBFX4DG4L?usp=sharing) [20-10](https://drive.google.com/drive/folders/1YH1p1ykLIwfD_D3BpCeT0HT4NSHNOHyh?usp=sharing)
+Semana 9 | I/O  |  | --| [22-10](https://drive.google.com/drive/folders/1WBI6XnrYaDaGmMq6N-JAKxP0g0I3eNd5?usp=sharing) [27-10](https://drive.google.com/drive/folders/1SbGKCmG7vsrLjS3Cxyaq8khAX1ei47l2?usp=sharing) [29-10] (https://drive.google.com/drive/folders/13XKSl9zzIZl4bcKcvZ1ew9nX6cVOSn4N?usp=sharing)
+Semana 10-11 | chache  |  | --|  [03-11] (https://drive.google.com/drive/folders/1IP64iEzbJAacMnzulhySuNmM_czWDK4r?usp=sharing) [07-11] (https://drive.google.com/drive/folders/1YH1p1ykLIwfD_D3BpCeT0HT4NSHNOHyh?usp=sharing)
 
 ## Estructura de los Laboratorios y Proyecto 
 
