@@ -6,7 +6,8 @@
 	github: https://github.com/Fabeltranm/
 
 ## Años anteriores
-* [2015-2018](https://sites.google.com/site/edigital2unal/)
+* [2015-2017](https://sites.google.com/site/edigital2unal/)
+* [2018] ()
 * [2019](https://unal-edigital2-2019-2.github.io/)
 
 ###
