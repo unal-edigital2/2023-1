@@ -4,13 +4,14 @@
 ### Proyecto 1
 https://github.com/caverar/SoC 
 
-### Proyecto 2  y 3: todo okey desde migen: 
-link 1 y 2 https://github.com/lcdiazf/GameSnake
+### Proyecto 2  
+https://github.com/lcdiazf/GameSnake
+
+### Proyecto 3  
 https://github.com/Ramelol/Proyecto
 
-
-
-estos tiene incompleto la sdcard 
-
+### Proyecto 4  
 https://github.com/luisajojoa/GameGirl
+
+### Proyecto 5  
 https://github.com/edferoca/digital-II
