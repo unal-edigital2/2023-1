@@ -7,7 +7,7 @@
 
 ## Años anteriores
 * [2015-2017](https://sites.google.com/site/edigital2unal/)
-* [2018](https://github.com/unal-edigital2/2020-2/blob/master/README.md)
+* [2018](https://github.com/unal-edigital2/2020-2/blob/master/docs/proyectos2018.md)
 * [2019](https://unal-edigital2-2019-2.github.io/)
 
 ###
