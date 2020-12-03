@@ -16,7 +16,7 @@ https://github.com/luisajojoa/GameGirl
 ### Proyecto 5  
 https://github.com/edferoca/digital-II
 
-##laboratorios 2018
-https://github.com/Fabeltranm/lm32_SoC
-https://github.com/Fabeltranm/lm32_SoC/tree/master/SoC_litex/ejercicios
-https://github.com/Fabeltranm/lm32_SoC/wiki
+## laboratorios 2018
+* https://github.com/Fabeltranm/lm32_SoC
+* https://github.com/Fabeltranm/lm32_SoC/tree/master/SoC_litex/ejercicios
+* https://github.com/Fabeltranm/lm32_SoC/wiki
