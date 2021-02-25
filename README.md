@@ -41,9 +41,9 @@ Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf
 Semana 3-4  | |  |  | 
 Semana 4-5  | |  |  | 
 Semana 6-7 | proyecto  |  | --| 
-Semana 8 | pipeline  |  | --| [13-10](https://drive.google.com/drive/folders/1JMaj5-Ob6Ytii19SlXMLUwc89wiC3h7h?usp=sharing) 
-Semana 9 | I/O  |  | --| [22-10](https://drive.google.com/drive/folders/1WBI6XnrYaDaGmMq6N-JAKxP0g0I3eNd5?usp=sharing) 
-Semana 10-11 | chache  |  | --|  [03-11](https://drive.google.com/drive/folders/1IP64iEzbJAacMnzulhySuNmM_czWDK4r?usp=sharing) 
+Semana 8 | pipeline  |  | --| 
+Semana 9 | I/O  |  | --| 
+Semana 10-11 | chache  |  | --|  
 
 ## Estructura de los Laboratorios y Proyecto 
 
