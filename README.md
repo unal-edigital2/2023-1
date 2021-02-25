@@ -9,9 +9,10 @@
 * [2015-2017](https://sites.google.com/site/edigital2unal/)
 * [2018](https://github.com/unal-edigital2/2020-2/blob/master/docs/proyectos2018.md)
 * [2019](https://unal-edigital2-2019-2.github.io/)
+* [2020-2](https://github.com/unal-edigital2/2020-2)
 
 ###
-	meet: [https://meet.google.com/ozs-buqf-ogw](https://meet.google.com/ozs-buqf-ogw) 
+	clases en zoom
 	Teoria: Martes y jueves 7-9am
 	Laboratorio; Viernes
 	
