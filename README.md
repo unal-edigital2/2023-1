@@ -14,7 +14,7 @@
 ###
 	clases en zoom
 	Teoria: Martes y jueves 7-9am
-	Laboratorio; Viernes
+	Laboratorio
 	
 ### Metodología
 
