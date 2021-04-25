@@ -40,8 +40,8 @@ Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- |
 Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf) |  -- | 
 Semana 3-4  | |  |  | 
 Semana 4-5  | |  |  | 
-Semana 6-7 | proyecto  | [link](./slides/week03/week5_digital2_.pdf)  | --| 
-Semana 8 | pipeline  |  | --| 
+Semana 6-7 | pipeline   | [link](./slides/week5_digital2_.pdf)  | --| 
+Semana 8 | proyecto  |  | --| 
 Semana 9 | I/O  |  | --| 
 Semana 10-11 | chache  |  | --|  
 
