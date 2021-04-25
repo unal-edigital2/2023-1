@@ -40,10 +40,14 @@ Semana 2  | Repaso  | [link](./slides/week02/week2_digital2.pdf) | -- |
 Semana 3-4  | intro Procesador caso J1|[link](./slides/week03/week4_digital2.pdf) |  -- | 
 Semana 3-4  | |  |  | 
 Semana 4-5  | |  |  | 
-Semana 6-7 | proyecto  |  | --| 
+Semana 6-7 | proyecto  | [link](./slides/week03/week5_digital2_.pdf)  | --| 
 Semana 8 | pipeline  |  | --| 
 Semana 9 | I/O  |  | --| 
 Semana 10-11 | chache  |  | --|  
+
+## videos 
+
+[link](https://drive.google.com/drive/folders/1dBglkMceGa2hCZL5vTpy7_vCFYOZRpEu?usp=sharing)
 
 ## Estructura de los Laboratorios y Proyecto 
 
