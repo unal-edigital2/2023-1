@@ -128,9 +128,10 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 01| semana 1 |  | Definición completa de  los periféricos  y mapa de memoria  | [link](./docs/WP01.md) | [WP01]().
 03  | semana 2 |  | Construcción del bloque  Cámara  y modulo de procesamiento   | [link](./docs/WP02.md) |  [WP02](https://classroom.github.com/g/fskVZJhK) 
 02| semana3 |   | Construcción del bloque Driver Radar, Estructura  del software  | [link](./docs/WP03.md) |  [WP02]()
-04  | semana 4 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |   [WP04]() 
-05  | semana 5 |  | : Software  del hard procesador  y el procesador IP  | |  [WP05]() 
-06  | semana 6 |  | Integración del proyecto y pruebas funcionales  | |  [WP06]() 
+05  | semana 4 |  | Inicio SoC Litex.  |   [WP04](https://classroom.github.com/g/qqeF36oA)
+05  | semana 5 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |   [WP05]() 
+06  | semana 5 |  | : Software  del hard procesador  y el procesador IP  | |  [WP06]() 
+06  | semana 7 |  | Integración del proyecto y pruebas funcionales  | |  [WP07]() 
 
 
 
