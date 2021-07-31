@@ -131,14 +131,14 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 05  | semana 4 |  | Inicio SoC Litex.  |   [WP04](https://classroom.github.com/g/qqeF36oA)
 05  | semana 5 |  | SoC con interripciones .  |   [WP05](https://classroom.github.com/g/llp2Y_dc)
 05  | semana 6 |  | SoC con periféricos en verilog.  |   [WP06](https://classroom.github.com/g/_wfeVTAZ)
-05  | semana 7 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |   [WP05]() 
-06  | semana 8 |  | : Software  del hard procesador  y el procesador IP  | |  [WP06]() 
-06  | semana 9 |  | Integración del proyecto y pruebas funcionales  | |  [WP07]() 
+05  | semana 7 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |   
+06  | semana 8 |  | : Software  del hard procesador  y el procesador IP  | |  
+06  | semana 9 |  | Integración del proyecto y pruebas funcionales  | |  
 
 
 
 ## ENTREGAS DEL PROYECTO  
 
-07  | semana 7 |  | Presentación | [link](./docs/WP07.md) |  [WP07](https://classroom.github.com/g/hfWKBknQ) 
+07  | semana 10 |  | Presentación | [link](./docs/WP07.md) |  [WP07](https://classroom.github.com/g/hfWKBknQ) 
 
 
