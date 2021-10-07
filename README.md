@@ -136,4 +136,9 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 09  | semana 9 |  | Integración del proyecto y pruebas funcionales  | |  
 10  | semana 10 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP07](https://classroom.github.com/g/hfWKBknQ) 
 
+## entrega final del proyecto
 
+[Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
+[Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
+[Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
+[Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
