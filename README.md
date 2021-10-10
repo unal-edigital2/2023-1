@@ -1,5 +1,5 @@
-##  ELECTRÓNICA DIGITAL 2 2021-1 UNIVERSIDAD NACIONAL DE COLOMBIA 
-###  https://unal-edigital2.github.io/2021-1/
+##  ELECTRÓNICA DIGITAL 2 2021-2 UNIVERSIDAD NACIONAL DE COLOMBIA 
+###  https://unal-edigital2.github.io/2021-2/
 
 ## Profesor:
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
@@ -11,18 +11,13 @@
 * [2018](https://github.com/unal-edigital2/2020-2/blob/master/docs/proyectos2018.md)
 * [2019](https://unal-edigital2.github.io/2019-2/)
 * [2020-2](https://unal-edigital2.github.io/2020-2/)
+* [2021-1](https://unal-edigital2.github.io/2021-1/)
 
 ## Horario 
 	* Clases en zoom
 	* Teoria: Martes y jueves 7-9am
 	* Laboratorio
 	
-## entrega final del proyecto
- 
-* [Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
-* [Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
-* [Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
-* [Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
 
 ## Metodología
 
@@ -55,7 +50,7 @@ Semana 10-11 | chache  |  | --|
 
 ## videos 
 
-[link](https://drive.google.com/drive/folders/1dBglkMceGa2hCZL5vTpy7_vCFYOZRpEu?usp=sharing)
+[link]
 
 ## Estructura de los Laboratorios y Proyecto 
 
@@ -65,16 +60,15 @@ Semana 10-11 | chache  |  | --|
 
 Semana   | Tema   | Guia de laboratorio | WP | deadline 
 --       | --     | --            	| -- | --   
-Semana 1 | instalación linux | [link] | |
-Semana 2 | instalación Viviado/quartus | [link](./labs/lab00.md) | |
-Semana 3 |  configuración Vivado -ALU | [link](./labs/lab01.md) | [wp01](https://classroom.github.com/g/00dJ40MG) |
+Semana 1 | instalación linux e instalación Viviado/quartus | [link](./labs/lab00.md) | |
+Semana 2 |  configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/g/00dJ40MG) |
+Semana 3 |  lab j1 | [link]) |  |
 
 
-## Cronograma de laboratorios  (Prelabs) 
+## Proyecto 
 
 El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
 
-En las próximas 5 semanas se estará trabajando en la adquisición, procesamiento y visualización de  imágenes. Para ello se hará uso de los siguientes componentes:
 
 * Cámara OV7970 sin FIFO con las siguientes características:
 * Tarjeta STM o Arduino, usado para la navegación del  robot autonomo
