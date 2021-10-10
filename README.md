@@ -19,10 +19,10 @@
 	
 ## entrega final del proyecto
 
-* [Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
-* [Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
-* [Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
-* [Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
+	* [Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
+	* [Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
+	* [Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
+	* [Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
 
 ### Metodología
 
