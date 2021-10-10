@@ -12,11 +12,18 @@
 * [2019](https://unal-edigital2-2019-2.github.io/)
 * [2020-2](https://github.com/unal-edigital2/2020-2)
 
-###
-	clases en zoom
-	Teoria: Martes y jueves 7-9am
-	Laboratorio
+###  horario 
+	* Clases en zoom
+	* Teoria: Martes y jueves 7-9am
+	 * Laboratorio
 	
+## entrega final del proyecto
+
+* [Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
+* [Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
+* [Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
+* [Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
+
 ### Metodología
 
 El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a  tratar, se dejarán documentos que deben ser analizados por  el estudiante; las dudas se discutirán y aclararán en clase. 
@@ -137,9 +144,3 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 09  | semana 9 |  | Integración del proyecto y pruebas funcionales  | |  
 10  | semana 10 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP07](https://classroom.github.com/g/hfWKBknQ) 
 
-## entrega final del proyecto
-
-[Grupo 01](https://github.com/unal-edigital2/w07_entrega-_final-grupo11)
-[Grupo 02](https://github.com/unal-edigital2/w07_entrega-_final-grupo12)
-[Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
-[Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
