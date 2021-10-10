@@ -24,7 +24,7 @@
 * [Grupo 04](https://github.com/unal-edigital2/w07_entrega-_final-grupo14)
 * [Grupo 05](https://github.com/unal-edigital2/w07_entrega-_final-grupo15)
 
-### Metodología
+## Metodología
 
 El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a  tratar, se dejarán documentos que deben ser analizados por  el estudiante; las dudas se discutirán y aclararán en clase. 
 
@@ -38,7 +38,7 @@ Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de ge
 * 15% CoEvaluación
 * 70% Proyecto (3 entregas)
 
-### Material de Clase
+## Material de Clase
 
 Semana   | Tema   | Documentación | otros | Video
 --       | --     | --            | -- | --   
@@ -85,7 +85,7 @@ En las próximas 5 semanas se estará trabajando en la adquisición, procesamien
 ![Diagrama](./docs/figs/escenario.png)
 
 
-### Metodología de trabajo 
+## Metodología de trabajo 
 
 Para cada paquete de trabajo se debe clonar la plantilla dada, y los resultados del trabajo de cada grupo deben ser subidos antes de la fecha estipulada. Se recomienda  leer la ayuda de github classroom en este [link](https://education.github.com/) y ver los videos de github de su canal de YouTube de este [link]( https://www.youtube.com/githubguides) o pueden descargar un libro de git del siguiente [link]( https://git-scm.com/book/en/v2)
 Antes de empezar  si no ha tenido ningún acercamiento con los repositorios de git  debe realizar los siguientes pasos:
