@@ -1,7 +1,7 @@
 ##  ELECTRÓNICA DIGITAL 2 2021-1 UNIVERSIDAD NACIONAL DE COLOMBIA 
 ###  https://unal-edigital2.github.io/2021-1/
 
-### Profesor:
+## Profesor:
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
 	fabeltranm@unal.edu.co.
 	github: https://github.com/Fabeltranm/
@@ -12,10 +12,10 @@
 * [2019](https://unal-edigital2.github.io/2019-2/)
 * [2020-2](https://unal-edigital2.github.io/2020-2/)
 
-###  horario 
+## Horario 
 	* Clases en zoom
 	* Teoria: Martes y jueves 7-9am
-	 * Laboratorio
+	* Laboratorio
 	
 ## entrega final del proyecto
 
