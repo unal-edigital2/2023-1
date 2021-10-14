@@ -28,14 +28,28 @@ Se diseñará e implementará un dispositivo digital de mediana complejidad, uti
 Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de generar y publicar en un sitio público github la documentación necesaria para futuras mejoras o correcciones.
 
 
-### config Git
+### Config Git
+Para cada paquete de trabajo se debe clonar la plantilla dada, y los resultados del trabajo de cada grupo deben ser subidos antes de la fecha estipulada. Se recomienda  leer la ayuda de github classroom en este [link](https://education.github.com/) y ver los videos de github de su canal de YouTube de este [link]( https://www.youtube.com/githubguides) o pueden descargar un libro de git del siguiente [link]( https://git-scm.com/book/en/v2)
+Antes de empezar  si no ha tenido ningún acercamiento con los repositorios de git  debe realizar los siguientes pasos:
+* Crear una cuenta de github. Ver este [video](https://www.youtube.com/watch?v=ezxRcdJ8glM&feature=youtu.be)
+* Para crear repositorios  revise este [link](https://help.github.com/en/github/getting-started-with-github/create-a-repo)
 
-El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a tratar , antes de cada nuevo tema se dejarán lecturas, talleres y prácticas que deben ser realizadas por el estudiante y las dudas se discutirán y aclararán en clase de laboratorio.
+Antes de comenzar con cada paquete de trabajo se debe leer las instrucciones  y tener todos los archivos. Para acceder a cada paquete de trabajo debe:
+* Aceptar la asignación de cada link dado. 
+* La aplicación les pregunta si desean crear un grupo nuevo o unirse a uno existente:
+	* Para crear un grupo nuevo coloque "Grupo-xx", donde xx es el número del grupo.
+	* Para unirse a un grupo existente, busque el nombre  y pulse el botón ´join´.
+	
+***Nota: Todos los estudiantes debes unirse al grupo correspondiente  y tener cuidado de no equivocarse de grupo***
 
-Adicionalmente, el estudiante debe aprender a manejar por su cuenta los programas computacionales utilizados en el curso. Con esto se elimina la dependencia tecnológica y permite que en la vida profesional se puedan adquirir nuevos conocimientos de forma autónoma. Sobra decir que el componente práctico es de vital importancia ya que el estudiante debe ser capáz de realizar implementaciones físicas que cumplan con especificaciones físicas, eléctricas, funcionales y económicas.
+Luego de unirse a cada grupo de trabajo debe clonar su  repositorio en su computador, para lo cual: 
+* Si usted  no tiene ningún conocimiento de cómo hacer esto, recomiendo  usar ***github Desktop*** el cual se puede descargar de este [link]( https://desktop.github.com), y la documentación  de uso la encuentra en este [link](https://help.github.com/en/desktop/getting-started-with-github-desktop) ***Recuerde lo que debe hacer es clonar el repositorio creado de forma automática por git classroom y NO crear uno nuevo***
+* Para los estudiantes que usen el sistema operativo Linux  les recomiendo usar la siguiente guía para clonar el repositorio e iniciar en  el mundo de  control de versiones [link]( https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+
+***RECUERDEN:*** Todos los integrantes del grupo deben  trabajar en el respectivo repositorio y participar en los  commit  push, y la construcción de la documentación
 
 
-Requisitos: Aparte de los establecidos en cada uno de los programas que incluyen la asignatura, es recomendable que el estudiante tenga disposición para el diseño e implementación de circuitos electrónicos y así como bases en algún lenguaje de programación de computadores.
+
 
 ### Evaluación
 * 15% AutoEvaluación
