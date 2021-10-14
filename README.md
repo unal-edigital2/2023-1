@@ -28,6 +28,15 @@ Se diseñará e implementará un dispositivo digital de mediana complejidad, uti
 Se conformarán grupos de trabajo de 3 personas, las cuales se encargarán de generar y publicar en un sitio público github la documentación necesaria para futuras mejoras o correcciones.
 
 
+### config Git
+
+El estudiante es responsable de adquirir el conocimiento, y tiene la responsabilidad de preparar los temas que se van a tratar , antes de cada nuevo tema se dejarán lecturas, talleres y prácticas que deben ser realizadas por el estudiante y las dudas se discutirán y aclararán en clase de laboratorio.
+
+Adicionalmente, el estudiante debe aprender a manejar por su cuenta los programas computacionales utilizados en el curso. Con esto se elimina la dependencia tecnológica y permite que en la vida profesional se puedan adquirir nuevos conocimientos de forma autónoma. Sobra decir que el componente práctico es de vital importancia ya que el estudiante debe ser capáz de realizar implementaciones físicas que cumplan con especificaciones físicas, eléctricas, funcionales y económicas.
+
+
+Requisitos: Aparte de los establecidos en cada uno de los programas que incluyen la asignatura, es recomendable que el estudiante tenga disposición para el diseño e implementación de circuitos electrónicos y así como bases en algún lenguaje de programación de computadores.
+
 ### Evaluación
 * 15% AutoEvaluación
 * 15% CoEvaluación
