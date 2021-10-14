@@ -73,7 +73,7 @@ Semana 10-11 | chache  |  | --|
 
 ## videos 
 
-[link]
+[link](https://drive.google.com/drive/folders/10eNAGyP_40ogyHKi2uQjFwqG2pPehAeM?usp=sharing)
 
 ## Estructura de los Laboratorios y Proyecto 
 
