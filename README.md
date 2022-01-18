@@ -151,9 +151,9 @@ A continuación se presenta cada actividad a realizar, el plan de trabajo del pr
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
 01| semana 1 |  | Definición completa de  los periféricos  y mapa de memoria  | [link](./docs/WP01.md) | [WP01]().
-02  | semana 2 |  | Construcción del bloque  Cámara  y modulo de procesamiento   | [link](./docs/WP02.md) |  [WP02](https://classroom.github.com/g/fskVZJhK) 
+02  | semana 2 |  | Construcción del bloque  Cámara  y modulo de procesamiento   | [link](./docs/WP02.md) |  [WP02](https://classroom.github.com/g/) 
 03| semana 3 |   | Construcción del bloque Driver Radar, Estructura  del software  | [link](./docs/WP03.md) |  [WP02]()
-04  | semana 4 |  | Inicio SoC Litex.  | |  [WP04](https://classroom.github.com/g/qqeF36oA)
+04  | semana 4 |  | Inicio SoC Litex.  | |  [WP04](https://classroom.github.com/a/NjYgczl4)
 05  | semana 5 |  | SoC con interripciones .  | |  [WP05](https://classroom.github.com/g/llp2Y_dc)
 06  | semana 6 |  | SoC con periféricos en verilog.  ||   [WP06](https://classroom.github.com/g/_wfeVTAZ)
 07  | semana 7 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |   
