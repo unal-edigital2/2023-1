@@ -68,7 +68,7 @@ Semana 4-5  |  pipeline   | [link](./slides/week5_digital2_.pdf)  |  --  |
 Semana 6-7 |  bus de comunicaciones | [link](./slides/week-06-%20SoC-interconexión.pdf)| --|
 Semana 8 | mapas de memoria proyecto  | [link](./slides/week-07-proyecto%20Dig2%202021%20-2.pptx) | --| 
 Semana 9 | I/O  |  | --| 
-Semana 10-11 | chache  |  [link](./slides/week7_cache_digital2.pdf) | link taller|
+Semana 10-11 | chache  |  [link](./slides/week7_cache_digital2.pdf) | [link taller](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/docs/docAP/cache.s)|
 
 ## videos 
 
