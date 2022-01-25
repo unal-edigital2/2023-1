@@ -162,4 +162,5 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 10  | W10 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP08](https://classroom.github.com/a/EhwTBEN6) 
 
 #### Materila que sirve de  guía 
-https://github.com/pcotret/ENSTAB-RISCV
+* https://github.com/pcotret/ENSTAB-RISCV
+* https://github.com/litex-hub/pythondata-cpu-picorv32
