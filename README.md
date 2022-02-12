@@ -167,6 +167,12 @@ No de grupo  | 1ra Entrega | Proyecto Final
 --           | --          | --           
 grupo 01  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo01.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-01/tree/Master)   
 grupo 02  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo02.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-02)
+grupo 03  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo03.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-03)
+grupo 04  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo04.pptx)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-04)
+grupo 05  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo05.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-05)
+grupo 06  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo06.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-06)
+grupo 07  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo07.pdf)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-07)
+grupo 08  | [link](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo08.pptx)   | [link](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-08)
 
 #### Material que sirve de  guía 
 * https://github.com/pcotret/ENSTAB-RISCV
