@@ -161,6 +161,10 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 09  | W09 |  | Integración del proyecto y pruebas funcionales  | |  
 10  | W10 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP08](https://classroom.github.com/a/EhwTBEN6) 
 
+### entregas
+
+* grupo 01   [1 entrega](https://github.com/unal-edigital2/2021-2/blob/master/slides/1_entrega/grupo01.pdf) [entrega final](https://github.com/unal-edigital2-labs/wp08-2021-2-gr-01/tree/Master)
+
 #### Materila que sirve de  guía 
 * https://github.com/pcotret/ENSTAB-RISCV
 * https://github.com/litex-hub/pythondata-cpu-picorv32
