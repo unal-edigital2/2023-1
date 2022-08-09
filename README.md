@@ -1,5 +1,5 @@
 ##   LABORATORIO ELECTRÓNICA DIGITAL 2 2022-2 UNIVERSIDAD NACIONAL DE COLOMBIA 
-###  https://unal-edigital2.github.io/2021-2/
+###  https://unal-edigital2.github.io/2022-2/
 
 ## Profesor Laboratorio:
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
