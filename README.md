@@ -5,6 +5,7 @@
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
 	fabeltranm@unal.edu.co.
 	github: https://github.com/Fabeltranm/
+	https://chat.whatsapp.com/IbI4boc6GWRJnb2A4ktdnB
 
 ## Años anteriores
 * [2015-2017](https://sites.google.com/site/edigital2unal/)
