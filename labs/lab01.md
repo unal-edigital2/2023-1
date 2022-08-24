@@ -43,12 +43,10 @@ Según las especificaciones anteriormente descrita, la caja funcional de la unid
 El diagrama estructural, se soporta en los componentes desarrollados en los anteriores laboratorios. De esta manera,  tanto el sumador, el multiplicador  y el Display, son tomados de los lab2, lab5 y lab4  respectivamente. Adicional a la estructura de cada operación se encuentra el decodificador  y el multiplexador.
 
 ## Entregables
-
-1. Definir el diagrama estructurar interno de cada bloque funcionar 
-2. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [lab01] Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente.
+ 
+1. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [lab01] Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente.
 3. Implementar `alu.v` en la FPGA, y  comprobar el funcionamiento  de la suma la multiplicación y la visualizaciónos archivos e instanciar el bloque divisor.
-5. Diseñar el bloque restador, adicionar dicho bloque a la respectiva carpeta e instanciar el modulo en `alu.v`.
-6. Realizar el testbench del bloque alu.
+5. implementar el bloque restador y el divisor, adicionar dicho bloque a la respectiva carpeta e instanciar el modulo en `alu.v`.
 7. implementar el sistema completo en la FPGA 
 8. hacer la documentación respectiva en el archivo README
   
