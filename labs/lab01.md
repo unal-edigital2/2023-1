@@ -44,7 +44,7 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 
 ## Entregables
  
-1. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [lab01] Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente.
+1. Descargar la estructura propuesta de la  Unidad Aritmética del paquete de trabajo [lab01] Este proyecto cuenta con el archivo `alu.v` y, tiene la carpeta `src` que cuenta con las 5 carpetas de cada componente. ybcambiar los operadores a 4 bits
 3. Implementar `alu.v` en la FPGA, y  comprobar el funcionamiento  de la suma la multiplicación y la visualizaciónos archivos e instanciar el bloque divisor.
 5. implementar el bloque restador y el divisor, adicionar dicho bloque a la respectiva carpeta e instanciar el modulo en `alu.v`.
 7. implementar el sistema completo en la FPGA 
