@@ -35,9 +35,11 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_10.jpg)
 2. ¿Cúal es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
 3. ¿Logra identificar las 5 intrucciones en j1.v ?
+
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_3.png)
 
 4. ¿Logra identificar las operaciones de la alu, en j1.v ?
+
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_4.png)
 
 5. ¿A partir de las intrucciones, podrian  proponer  un listado de opcodes, para  realizar  un programa que  ejecute 10+5-2 ?
@@ -47,18 +49,21 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
 
 Para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
 
-### Instalar gforth en linux
+### Instalar gforth
+```
+##### En linux
 1. Ejecute el siguiente comando 
     `sudo apt install gforth`
 
-### Instalar gforth en windows
+#### En windows
 
 1. Descargar gforth-0.7.0.exe del link https://www.gnu.org/software/gforth/
 2. Ejecute e instale gforth-0.7.0.exe y sigas las indicaciones 
 3. En el archivo Makefile borre su contenido y   agrege la siguiente linea
   
   `"C:\Program Files (x86)\gforth\gforth.exe" -e 'include main.fs bye' `
-  
+```
+
 4. Agrege la extensión .bat al archivo Makefile
 
 La compilación cruzada hace referencia a la compilación del código, pero  que se ejecuta en plataforma diferente a la del compilador. Por ejemplo, en este laboratorio el compilador esta alojado en nuestro computador, pero el codigo sera ejecutado en el procesador j1, que se aloja en la FPGA.
