@@ -12,18 +12,18 @@ En la imagen se observa, los componentes básicos de la unidad de procesamiento,
 
 En este contexto, en el laboratorio se tiene como objetivo abordar el concepto de procedador y del SoC , a partir  del caso de estudio del procesador J1, para lo cual se estudia :
 
-1. Componentes del procesador
-2. Ciclos de Ejecución de las instrucciones.
-3. Interface SW/HW, compilación cruzada 
-4. SoC Básico
+1. Componentes del procesador y Ciclos de Ejecución de las instrucciones.
+2. Interface SW/HW, compilación cruzada 
+3. SoC Básico
 
+***Nota: esta guia es resumida en clase se da la exlicación detallada, recuerde  preguntar siempre***
 # Desarrollo
 
 Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, el cual cuenta con 15 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
 
 De igual manera, para mas información puede recurir a los siguientes [slides](https://github.com/unal-edigital2/2021-2/tree/master/slides/week02)
 
-## Componentes del procesador J1
+## Componentes del procesador J1 y Ciclos de Ejecución de las instrucciones.
 
 El procesador j1, cuenta con una estructura básica, como se observa en la siguiente figura, por favor  revise la documentación del procesador [j1.pdf](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1.pdf) junto con el el archivo j1.v que se encuetra en la la carpeta HDL del paquete de trabajo.
 
@@ -31,16 +31,21 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
  
 ### Preguntas
 
-1. ¿Según la imagen a continuacíón, identifca estos bloques en el HDL j1.v?
+1. ¿Según la imagen a continuacíón, identifca los bloques en el HDL j1.v?
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_10.jpg)
 2. ¿Cúal es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
 3. ¿Logra identificar las 5 intrucciones en j1.v ?
-![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_2.png)
-4. ¿Logra identificar las operaciones de la alu, en j1.v ?
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_3.png)
 
+4. ¿Logra identificar las operaciones de la alu, en j1.v ?
+![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_4.png)
+
+5. ¿A partir de las intrucciones, podrian  proponer  un listado de opcodes, para  realizar  un programa que  ejecute 10+5-2 ?
+
+
 ## Interface SW/HW, compilación cruzada
-para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
+
+Para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
 
 ### Instalar gforth en linux
 1. Ejecute el siguiente comando 
@@ -55,6 +60,11 @@ para la configuración del software se debe instalar el compilador Gforth, para 
   `"C:\Program Files (x86)\gforth\gforth.exe" -e 'include main.fs bye' `
   
 4. Agrege la extensión .bat al archivo Makefile
+
+La compilación cruzada hace referencia a la compilación del código, pero  que se ejecuta en plataforma diferente a la del compilador. Por ejemplo, en este laboratorio el compilador esta alojado en nuestro computador, pero el codigo sera ejecutado en el procesador j1, que se aloja en la FPGA.
+
+Se recomieda revisar las [slides](https://github.com/unal-edigital2/2022-2/blob/master/slides/week8_digital2.pdf)
+
 
 # Entregables
 
