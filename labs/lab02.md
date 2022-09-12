@@ -1,19 +1,8 @@
-## Laboratorio 02: procesador J1 
+## Laboratorio 02: Introducción al set de intrsucciones  y al SoC: Caso procesador J1 
 # Introducción
 
 
-## Diseño BCD-7seg
-
-
-
-**Definir la descripción Funcional**
-
-
-# Ejercicio - Visualización Dinámica 4 Display- Segmentos
-
-
-## Diagrama Caja negra 
-
+![sigin](https://github.com/unal-edigital1-2020-1/page/blob/master/labs/figs/0_2.png)
 
 ## Diagrama Estructural 
 
