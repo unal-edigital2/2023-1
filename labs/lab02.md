@@ -16,7 +16,8 @@ En este contexto, en el laboratorio se tiene como objetivo abordar el concepto d
 2. Interface SW/HW, compilación cruzada 
 3. SoC Básico
 
-***Nota: esta guia es resumida en clase se da la exlicación detallada, recuerde  preguntar siempre***
+***Nota: esta guia es un resumen. En clase se da la explicación detallada, recuerde  preguntar siempre***
+
 # Desarrollo
 
 Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, el cual cuenta con 15 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
@@ -50,28 +51,46 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
 Para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
 
 ### Instalar gforth
-```
+
 ##### En linux
-1. Ejecute el siguiente comando 
-    `sudo apt install gforth`
+  1. Ejecute el siguiente comando 
+      `sudo apt install gforth`
 
 #### En windows
 
-1. Descargar gforth-0.7.0.exe del link https://www.gnu.org/software/gforth/
-2. Ejecute e instale gforth-0.7.0.exe y sigas las indicaciones 
-3. En el archivo Makefile borre su contenido y   agrege la siguiente linea
+  1. Descargar gforth-0.7.0.exe del link https://www.gnu.org/software/gforth/
+  2. Ejecute e instale gforth-0.7.0.exe y sigas las indicaciones 
+  3. En el archivo Makefile borre su contenido y   agrege la siguiente linea
   
-  `"C:\Program Files (x86)\gforth\gforth.exe" -e 'include main.fs bye' `
-```
+    `"C:\Program Files (x86)\gforth\gforth.exe" -e 'include main.fs bye' `
 
-4. Agrege la extensión .bat al archivo Makefile
+  4. Agrege la extensión .bat al archivo Makefile
 
 La compilación cruzada hace referencia a la compilación del código, pero  que se ejecuta en plataforma diferente a la del compilador. Por ejemplo, en este laboratorio el compilador esta alojado en nuestro computador, pero el codigo sera ejecutado en el procesador j1, que se aloja en la FPGA.
 
 Se recomieda revisar las [slides](https://github.com/unal-edigital2/2022-2/blob/master/slides/week8_digital2.pdf)
 
+para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta de generación de instrucciones del procesador, en otras palabras lo que buscamos es comprender la frontera de Sw y HW como se ve observa en la siguiente figura.
 
-# Entregables
+![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/0_3.png)
 
-Una vez clone el repositorio y lea la anterior guia, realice lo siguiente:
+### Preguntas
+
+1. Revise el archivo j1.mem, se encuentra en la carpera `firmware/Hello_World/`. ¿Las lineas 1, 1082 a 1807  de j1.men que instrucciones son?
+2. Revise el archivo app.fs, ¿el resultado anterior  coincide con los escrito en este archivo?
+3. ¿Qué es un archivo makefile?
+4. Diseñe un código que permita ejecutar, 4 operaciones aritméticas (ejemplo; 1 multiplicación, 1 división ,1 suma, 1 resta)  y que el resultado de cada una sea  enviado por la Uart del j1 al computador . para ello:
+     a. Modificar el app.fs, para agregar las 5 operaciones 
+     b. Ejecute el makefile correspondiente. (compilación cruzada)
+     c. Sintetizar el HDL del j1, y si desea simule 
+     d. implemente el procesador j1soc en la FPGA
+     e. instalar y configurar un nonitor del puertor serial (Uart) en el computador
+     f. Comprobar el funcionamiento.
+     g. Documentar con ayuda de imagenes, videos en el README del laboratorio
+     
+5. ¿Los bloques Uart, Multiplicadory Divisor,  no hacen parte del DataPath j1.v, entonces como estan conectados ?
+     
+ ### SoC Básico
+## pendiente 
+
 
