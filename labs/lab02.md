@@ -82,22 +82,15 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
 4. Diseñe un código que permita ejecutar, 4 operaciones aritméticas (ejemplo; 1 multiplicación, 1 división ,1 suma, 1 resta)  y que el resultado de cada una sea  enviado por la Uart del j1 al computador . para ello:
 
      * Modificar el app.fs, para agregar las 5 operaciones.
-     
      * Ejecute el makefile correspondiente. (compilación cruzada).
-     
-     c. Sintetizar el HDL del j1.
-     
-     d. implemente el procesador j1soc en la FPGA.
-     
-     e. instalar y configurar un nonitor del puertor serial (Uart) en el computador.
-     
-     f. Comprobar el funcionamiento.
-     
-     g. Documentar con ayuda de imagenes, videos en el README del laboratorio.
+     * Sintetizar el HDL del j1.
+     * implemente el procesador j1soc en la FPGA.
+     * Instalar y configurar un nonitor del puertor serial (Uart) en el computador.
+     * Comprobar el funcionamiento.
+     * Documentar con ayuda de imagenes, videos en el README del laboratorio.
      
 5. ¿Los bloques Uart, Multiplicadory Divisor,  no hacen parte del DataPath j1.v, entonces como estan conectados ?
-     
- ### SoC Básico
-## pendiente 
+6. ¿qué es un SoC?
+7. ¿Cual es el mapa de memoria del SoC del j1 , para ello revisar j1Soc.v?
 
 
