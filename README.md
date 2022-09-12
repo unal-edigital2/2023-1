@@ -89,7 +89,7 @@ Semana   | Tema   | Guia de laboratorio | WP | deadline
 --       | --     | --            	| -- | --   
 Semana 1 | Instalación linux e instalación Viviado/quartus | [link](./labs/lab00.md) | |
 Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/NkduMOs4) |
-Semana 3 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/) |
+Semana 3 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/Xtd6vHQ2) |
 
 
 ## Proyecto 
