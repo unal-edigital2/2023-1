@@ -80,13 +80,20 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
 2. Revise el archivo app.fs, ¿el resultado anterior  coincide con los escrito en este archivo?
 3. ¿Qué es un archivo makefile?
 4. Diseñe un código que permita ejecutar, 4 operaciones aritméticas (ejemplo; 1 multiplicación, 1 división ,1 suma, 1 resta)  y que el resultado de cada una sea  enviado por la Uart del j1 al computador . para ello:
-     a. Modificar el app.fs, para agregar las 5 operaciones 
-     b. Ejecute el makefile correspondiente. (compilación cruzada)
-     c. Sintetizar el HDL del j1, y si desea simule 
-     d. implemente el procesador j1soc en la FPGA
-     e. instalar y configurar un nonitor del puertor serial (Uart) en el computador
+
+     * Modificar el app.fs, para agregar las 5 operaciones.
+     
+     * Ejecute el makefile correspondiente. (compilación cruzada).
+     
+     c. Sintetizar el HDL del j1.
+     
+     d. implemente el procesador j1soc en la FPGA.
+     
+     e. instalar y configurar un nonitor del puertor serial (Uart) en el computador.
+     
      f. Comprobar el funcionamiento.
-     g. Documentar con ayuda de imagenes, videos en el README del laboratorio
+     
+     g. Documentar con ayuda de imagenes, videos en el README del laboratorio.
      
 5. ¿Los bloques Uart, Multiplicadory Divisor,  no hacen parte del DataPath j1.v, entonces como estan conectados ?
      
