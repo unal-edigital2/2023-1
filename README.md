@@ -94,16 +94,7 @@ Semana 3 | lab procesador j1 | [link](https://classroom.github.com/a/bdmKy_fH) |
 
 ## Proyecto 
 
-El trabajo presentado a continuación  tiene como objetivo diseñar  un sistema autónmo capaz  de navegar  y trazar un laberinto al mismo tiempo que  procesar imagenes de objetos por color. 
 
-
-* Cámara OV7970 sin FIFO con las siguientes características:
-* Tarjeta STM o Arduino, usado para la navegación del  robot autonomo
-* Tarjeta de desarrollo FPGA, Nexys4, quacho-basic  para ka adquisición y  procesamiento de imagen
-* Sistema de visualización.
-* Sensores y actuadores según seleccione el grupo.
-
-![Diagrama](./docs/figs/escenario.png)
 
 ## Desarrollo 
 A continuación se presenta cada actividad a realizar, el plan de trabajo del proyecto de cada semana se encuentra en el link de documentación y el link de trabajo se encuentra en la columna  repositorio.
@@ -131,3 +122,4 @@ No de grupo  | 1ra Entrega | Proyecto Final
 #### Material que sirve de  guía 
 * https://github.com/pcotret/ENSTAB-RISCV
 * https://github.com/litex-hub/pythondata-cpu-picorv32
+* https://blog.desdelinux.net/guia-rapida-para-utilizar-github/
