@@ -31,10 +31,13 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
  
 ### Preguntas
 
-1. ¿Según la imagen a continuacíón, identfica estos bloques en el HDL j1.v?
-![sigin](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_10.jpg)
-2.  ¿Cúal es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
-
+1. ¿Según la imagen a continuacíón, identifca estos bloques en el HDL j1.v?
+![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_10.jpg)
+2. ¿Cúal es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
+3. ¿Logra identificar las 5 intrucciones en j1.v ?
+![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_2.png)
+4. ¿Logra identificar las operaciones de la alu, en j1.v ?
+![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_3.png)
 
 ## Interface SW/HW, compilación cruzada
 para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
