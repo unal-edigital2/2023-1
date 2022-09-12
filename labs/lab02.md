@@ -1,4 +1,5 @@
 ## Laboratorio 02: Introducción al set de intrsucciones  y al SoC: Caso procesador J1 
+
 # Introducción
 
 En la imagen se observa, los componentes básicos de la unidad de procesamiento, en donde:
@@ -20,7 +21,7 @@ En este contexto, en el laboratorio se tiene como objetivo abordar el concepto d
 
 # Desarrollo
 
-Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, el cual cuenta con 15 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
+Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, cuenta con 16 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
 
 De igual manera, para mas información puede recurir a los siguientes [slides](https://github.com/unal-edigital2/2021-2/tree/master/slides/week02)
 
@@ -34,7 +35,7 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
 
 1. ¿Según la imagen a continuacíón, identifca los bloques en el HDL j1.v?
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_10.jpg)
-2. ¿Cúal es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
+2. ¿Cuál es el objetivo de la linea 3 de j1.v, `parameter   bootram_file     = "./image.ram"`  ?
 3. ¿Logra identificar las 5 intrucciones en j1.v ?
 
 ![img2](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/j1_3.png)
@@ -48,7 +49,7 @@ El procesador j1, cuenta con una estructura básica, como se observa en la sigui
 
 ## Interface SW/HW, compilación cruzada
 
-Para la configuración del software se debe instalar el compilador Gforth, para lo cual se debe seguir los siguietnes pasos  
+Para la configuración del software se debe instalar el compilador Gforth, seguir los siguietnes pasos  
 
 ### Instalar gforth
 
@@ -91,6 +92,11 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
      
 5. ¿Los bloques Uart, Multiplicadory Divisor,  no hacen parte del DataPath j1.v, entonces como estan conectados ?
 6. ¿qué es un SoC?
-7. ¿Cual es el mapa de memoria del SoC del j1 , para ello revisar j1Soc.v?
+7. ¿explique el mapa de memoria del SoC del j1 , para ello revisar j1Soc.v y tomar como base la este [link](https://github.com/unal-edigital2/2022-2/blob/master/slides/week03/week4_digital2.pdf) a partir de la diapositiva 52 ?
 
+## Entregables
+
+1. las respuestas a las preguntas
+2. La documentación en el archivo README del lab en github. rec
+3. Los códigos tanto en HW como en SW en el git
 
