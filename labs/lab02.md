@@ -77,7 +77,7 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
 
 ### Preguntas
 
-1. Revise el archivo j1.mem, se encuentra en la carpera `firmware/Hello_World/`. ¿Las lineas 1, 1082 a 1807  de j1.men que instrucciones son?
+1. Revise el archivo j1.mem, se encuentra en la carpera `firmware/Hello_World/`. ¿Las lineas 1, 1083 a 1088  de j1.men que instrucciones son?
 2. Revise el archivo app.fs, ¿el resultado anterior  coincide con los escrito en este archivo?
 3. ¿Qué es un archivo makefile?
 4. Diseñe un código que permita ejecutar, 4 operaciones aritméticas (ejemplo; 1 multiplicación, 1 división ,1 suma, 1 resta)  y que el resultado de cada una sea  enviado por la Uart del j1 al computador . para ello:
