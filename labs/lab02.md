@@ -84,7 +84,7 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
 
      * Modificar el app.fs, para agregar las 5 operaciones.
      * Ejecute el makefile correspondiente. (compilación cruzada).
-     * Sintetizar el HDL del j1soc.v.
+     * Sintetizar el HDL del j1soc.v. cambiando la ruta del path de j1.men (linea 4 de j1soc.v)
      * implemente el procesador j1soc en la FPGA.
      * Instalar y configurar un nonitor del puertor serial (Uart) en el computador.
      * Comprobar el funcionamiento.
