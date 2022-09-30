@@ -23,7 +23,7 @@ En este contexto, en el laboratorio se tiene como objetivo abordar el concepto d
 
 Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, cuenta con 16 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
 
-De igual manera, para mas información puede recurir a los siguientes [slides](https://github.com/unal-edigital2/2021-2/tree/master/slides/week02)
+De igual manera, para mas información puede ver los siguientes [slides](https://github.com/unal-edigital2/2021-2/tree/master/slides/week02)
 
 ## Componentes del procesador J1 y Ciclos de Ejecución de las instrucciones.
 
