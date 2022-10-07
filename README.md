@@ -89,8 +89,11 @@ Semana   | Tema   | Guia de laboratorio | WP | deadline
 --       | --     | --            	| -- | --   
 Semana 1 | Instalación linux e instalación Viviado/quartus | [link](./labs/lab00.md) | |
 Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/NkduMOs4) |
-Semana 3 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/Xtd6vHQ2) |
+Semana 5 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/Xtd6vHQ2) |
+Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab03.md) | [lb03](https://classroom.github.com/a/) |
 
+
+Definición completa de los periféricos y mapa de memoria
 
 ## Proyecto 
 
@@ -103,16 +106,15 @@ A continuación se presenta cada actividad a realizar, el plan de trabajo del pr
 
 WP  | semana | deadline  | Tema | Documentación| Repositorio 
 --  | --     | --        | --   | --          | --  
-01| W01 |  | Definición completa de  los periféricos  y mapa de memoria  | [link](./docs/WP01.md) | [WP01]().
-02  | W02 |  | Construcción del bloque  Cámara  y modulo de procesamiento   | [link](./docs/WP02.md) |  [WP02](https://classroom.github.com/g/) 
-03| W03 |   | Construcción del bloque Driver Radar, Estructura  del software  | [link](./docs/WP03.md) |  [WP02]()
-04  | W04 |  | Inicio SoC Litex.  | |  [WP04](https://classroom.github.com/a/NjYgczl4)
-05  | W05 |  | SoC con interripciones .  | |  [WP05](https://classroom.github.com/a/Va3Gg2Ci)
-06  | W06 |  | SoC con periféricos en verilog.  ||   [WP06](https://classroom.github.com/a/aju5Y-hx)
-07  | W07 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |    
-08  | W08 |  | : Software  del hard procesador  y el procesador IP  | |  
-09  | W09 |  | Integración del proyecto y pruebas funcionales  | |  
-10  | W10 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP08](https://classroom.github.com/a/EhwTBEN6) 
+01 | W01 |  | Definición completa de  los periféricos  y mapa de memoria  | [link](./docs/WP01.md) | [WP01]().
+02 | W02 |  | Inicio SoC Litex.  | |  [WP02]()
+06 | W03 |  | SoC con periféricos en verilog.  ||   [WP06]()
+03 | W04 |  | Construcción del bloque   | [link](./docs/WP02.md) |  [WP03](https:) 
+04 | W05 |  | Construcción del bloque, Estructura  del software  | [link](./docs/WP03.md) |  [WP04]()
+05 | W06 |  | SoC con interripciones .  | |  [WP05]()
+07 | W07 |  | Integración driver con SoC, pruebas  funcionales de cada driver.  |    
+09 | W08 |  | Integración del proyecto y pruebas funcionales  | |  
+10 | W09 |  | Presentación  entrega del proyecto| [link](./docs/WP07.md) |  [WP08]) 
 
 ### Entregas
 
