@@ -53,7 +53,7 @@ Para recordar que es compilación cruzada se recomienda ver este [documento](htt
 
 ***Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente***
 
-### 4. compresión de los procesos 
+### 4. Compresión de los procesos 
 Al terminar los procesos anteriores se debe tener un procesador  con un firmware. En este contexto  se debe
 1. Leer los pasos propuestos en la terminal , y ejecutar cada  ejemplo que da 
 2. Revisar en el HW que se ejecuta el comando dado en SW
