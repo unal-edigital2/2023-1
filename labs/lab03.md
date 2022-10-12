@@ -53,9 +53,13 @@ Para recordar que es compilación cruzada se recomienda ver este [documento](htt
 
 ***Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente***
 
-### 4. Compresión de los procesos 
+#### 4. Compresión de los procesos y entrega
 Al terminar los procesos anteriores se debe tener un procesador  con un firmware. En este contexto  se debe
 1. Leer los pasos propuestos en la terminal , y ejecutar cada  ejemplo que da 
 2. Revisar en el HW que se ejecuta el comando dado en SW
 3. Revisar el archivo buildSoCproject.py e intente  generar la arquitectura del SoC
 4. Revise el archivo main.c  y comprenda en SW que se esta haciendo. Verifique el SW con la ejecución que realizo en los puntos 1 y 2
+
+### video de la clase  explicando el lab
+
+[video 12 de octibre de 2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
