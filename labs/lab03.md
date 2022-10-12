@@ -35,15 +35,20 @@ b. Recuerde configurar los path de Vivado y del compilador para RiscV en el arch
     
 #### 2. Pruebas básicas de sintetización
 Una vez se tenga  instaldo el framwork y el compilador  proceda a :
-1. Descargar el paquete de trabajo de este laboratorio.2
+1. Descargar el paquete de trabajo de este laboratorio.
 2. Ingresar en un terminal a la carpeta ´SoC_project´
 3. Ejecutar       ` python3 buildSoCproject.py `
-4. conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`
+4. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`
 
-#### 2. Pruebas básicas de compilación
+En este punto usted tiene un SoC básico programado en la FPGA, y por lo tanto, se debe configurar y cargar el firmware
 
-6. ir a la carpeta  firmware
-7. ejecutar "make all"
-8. salir de la carpeta firmware  
-9. ejecutar litex_term.py /dev/ttyUSB1 --kernel firmware/firmware.bin
-10.  enteder el programa que esta  ejecutando el procesardor 
+#### 4. Pruebas básicas de compilación
+
+Para recordar que es compilación cruzada se recomienda ver este [documento](https://github.com/unal-edigital2/2021-2/blob/master/slides/week8_digital2.pdf) y para cargar el firmware al SoC riscv proceda a 
+
+1. Ir a la carpeta  firmware
+2. Ejecutar `make all`  revise el archivo makefile y comprenda se contenido 
+3. Salir de la carpeta firmware  
+4. Ejecutar `litex_term.py /dev/ttyUSB1 --kernel firmware/firmware.bin` recuerde que el puerto depende de donde este conectada la tarjeta de desarrollo.
+
+Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente
