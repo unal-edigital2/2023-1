@@ -42,7 +42,7 @@ Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 
 En este punto usted tiene un SoC básico programado en la FPGA, y por lo tanto, se debe configurar y cargar el firmware
 
-#### 4. Pruebas básicas de compilación
+#### 3. Pruebas básicas de compilación
 
 Para recordar que es compilación cruzada se recomienda ver este [documento](https://github.com/unal-edigital2/2021-2/blob/master/slides/week8_digital2.pdf) y para cargar el firmware al SoC riscv proceda a 
 
@@ -51,4 +51,11 @@ Para recordar que es compilación cruzada se recomienda ver este [documento](htt
 3. Salir de la carpeta firmware  
 4. Ejecutar `litex_term.py /dev/ttyUSB1 --kernel firmware/firmware.bin` recuerde que el puerto depende de donde este conectada la tarjeta de desarrollo.
 
-Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente
+***Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente***
+
+### 4. compresión de los procesos 
+Al terminar los procesos anteriores se debe tener un procesador  con un firmware. En este contexto  se debe
+1. Leer los pasos propuestos en la terminal , y ejecutar cada  ejemplo que da 
+2. Revisar en el HW que se ejecuta el comando dado en SW
+3. Revisar el archivo buildSoCproject.py e intente  generar la arquitectura del SoC
+4. Revise el archivo main.c  y comprenda en SW que se esta haciendo. Verifique el SW con la ejecución que realizo en los puntos 1 y 2
