@@ -31,11 +31,11 @@ Litex es un framework para generar con script depython la arquitectura del SoC, 
  
 b. Recuerde configurar los path de Vivado y del compilador para RiscV en el archivo .bachrc que se encuentra en el home de cada usuario. 
 
-Nota: Primero acceda al archivo ".bashrc" con el comando ´´´sudo nano ~/.bashrc´´´. Y agregue la ruta de vivado escribiendo al final del archivo ´´´export PATH=$PATH:/opt/Xilinx/Vivado/2020.2/bin´´´.  (Por supuesto que deberías usar tu propio path o ruta de Vivado).
+Nota: Primero acceda al archivo ".bashrc" con el comando `sudo nano ~/.bashrc`. Y agregue la ruta de vivado escribiendo al final del archivo `export PATH=$PATH:/opt/Xilinx/Vivado/2020.2/bin`.  (Por supuesto que deberías usar tu propio path o ruta de Vivado).
  
 Si prefiere puede ver este video para la configuración del path de vivado [video](https://drive.google.com/file/d/13SeEx4Z_3RK7wGHfiwuvrs2e9uZLPhrI/view?usp=sharing)
 
-debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video]()
+debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
  
 #### 2. Pruebas básicas de sintetización
 Una vez se tenga  instaldo el framwork y el compilador  proceda a :
