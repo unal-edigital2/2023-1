@@ -27,12 +27,15 @@ Litex es un framework para generar con script depython la arquitectura del SoC, 
 
 #### 1. Instalación 
 
- a. Para la instalación del Framework debe seguir los pasos 1 a 4 de la guía de litex de este [link](https://github.com/enjoy-digital/litex/wiki/Installation) 
-
-b. Recuerde configurar los path de Vivado y del compilador para RiscV en el archivo .bachrc que se encuentra en el home de cada usuario
+ a. Para la instalación del Framework debe seguir los pasos 1 a 4 de la guía de litex de este [link](https://github.com/enjoy-digital/litex/wiki/Installation) ***Nota no instalar en la carpeta del usuario***
+ 
+b. Recuerde configurar los path de Vivado y del compilador para RiscV en el archivo .bachrc que se encuentra en el home de cada usuario. 
 
 Nota: Primero acceda al archivo ".bashrc" con el comando "sudo nano ~/.bashrc". Y agregue la ruta de vivado escribiendo "export PATH=$PATH:/opt/Xilinx/Vivado/2020.2/bin" al final del archivo.  (Por supuesto que deberías usar tu propio path o ruta de Vivado).
-    
+ 
+O si prefiere puede ver este video para la configuración del path de vivado [video](https://drive.google.com/file/d/13SeEx4Z_3RK7wGHfiwuvrs2e9uZLPhrI/view?usp=sharing)
+ 
+ 
 #### 2. Pruebas básicas de sintetización
 Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
