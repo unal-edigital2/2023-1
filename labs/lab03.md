@@ -42,9 +42,9 @@ Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Ingresar en un terminal a la carpeta ´SoC_project´
 3. Ejecutar       ` python3 buildSoCproject.py `
-4. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`, 
+4. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
 
-Nota: si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
+Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
 
 En este punto usted tiene un SoC básico programado en la FPGA, y por lo tanto, se debe configurar y cargar el firmware
 
