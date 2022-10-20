@@ -43,10 +43,13 @@ Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
 
     Para las tarjetas Nexys 4, 4DDR y A7, debe comentar las lineas 9 y 10, como la imagen:
-  ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im3lab3.png)
+  ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im4lab3.png)
   
     Para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación
-  ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im4lab3.png)
+  ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im3lab3.png)
+  
+     Adicional para la tarjeta zybo  comentar las lineas 63 a 72 como se aprecia en la imagen:
+  ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im5lab3.png)
     
 
 3. Ingresar en un terminal a la carpeta ´SoC_project´
