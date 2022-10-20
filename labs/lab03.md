@@ -40,11 +40,13 @@ debe realizar el mismo proceso con la ruta del compilador de riscV, si desea pue
 #### 2. Pruebas básicas de sintetización
 Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
-2. Según la tarjeta que use en el archivo buildSoCproject.py modifique
- 2.1 para las tarjetas Nexys 4, 4DDR y A7, debe comentar las lineas 9 y 10; para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación 
-4. Ingresar en un terminal a la carpeta ´SoC_project´
-5. Ejecutar       ` python3 buildSoCproject.py `
-6. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
+2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
+
+ Para las tarjetas Nexys 4, 4DDR y A7, debe comentar las lineas 9 y 10; para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación 
+
+3. Ingresar en un terminal a la carpeta ´SoC_project´
+4. Ejecutar       ` python3 buildSoCproject.py `
+5. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
 
