@@ -27,7 +27,7 @@ Litex es un framework para generar con script depython la arquitectura del SoC, 
 
 #### 1. Instalación 
 
- a. Para la instalación del Framework debe seguir los pasos 1 a 4 de la guía de litex de este [link](https://github.com/enjoy-digital/litex/wiki/Installation) ***Nota no instalar en la carpeta del usuario***
+ a. Para la instalación del Framework debe seguir los pasos 1 a 3 de la guía de litex de este [link](https://github.com/enjoy-digital/litex/wiki/Installation) ***Nota no instalar en la carpeta del usuario***
  
 b. Recuerde configurar los path de Vivado y del compilador para RiscV en el archivo .bachrc que se encuentra en el home de cada usuario. 
 
