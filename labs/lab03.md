@@ -42,7 +42,9 @@ Una vez se tenga  instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
 
- Para las tarjetas Nexys 4, 4DDR y A7, debe comentar las lineas 9 y 10; para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación 
+´´´
+Para las tarjetas Nexys 4, 4DDR y A7, debe comentar las lineas 9 y 10; para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación 
+´´´
 
 3. Ingresar en un terminal a la carpeta ´SoC_project´
 4. Ejecutar       ` python3 buildSoCproject.py `
