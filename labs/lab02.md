@@ -97,6 +97,6 @@ para esta parte no se pide  aprender gforth, ya que solo se usa como herramienta
 ## Entregables
 
 1. Las respuestas a las preguntas
-2. La documentación en el archivo README del lab en github. rec
+2. La documentación en el archivo README del lab en github. recuede que puede usar imagenes y videos
 3. Los códigos tanto en HW como en SW en el git
 
