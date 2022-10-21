@@ -21,6 +21,8 @@ Una vez se tenga claro que perifericos debe  tener el  proyecto, realizar:
 3. Realizar el mapa de memoria del SoC y de cada periférico.
 4. Realizar el diagrama del Soc con los perifericos
 
+Esta documentación debe estar cargarda en el README del laboratorio.
+
 ### Introducción al SoC con litex 
 
 Litex es un framework para generar con script depython la arquitectura del SoC, y por su facilidad de integración es la herramienta  que se usa para el dearrollo de los proyectos de cada grupo. para mas información se recomienda  visitar la página github de [liteX](https://github.com/enjoy-digital/litex/wiki)
@@ -31,14 +33,14 @@ Litex es un framework para generar con script depython la arquitectura del SoC, 
  
 b. Recuerde configurar los path de Vivado y del compilador para RiscV en el archivo .bachrc que se encuentra en el home de cada usuario. 
 
-Nota: Primero acceda al archivo ".bashrc" con el comando `sudo nano ~/.bashrc`. Y agregue la ruta de vivado escribiendo al final del archivo `export PATH=$PATH:/opt/Xilinx/Vivado/2020.2/bin`.  (Por supuesto que deberías usar tu propio path o ruta de Vivado).
+Nota: Primero acceda al archivo ".bashrc" con el comando `nano ~/.bashrc`. Y agregue la ruta de vivado escribiendo al final del archivo `export PATH=$PATH:/opt/Xilinx/Vivado/2020.2/bin`.  (Por supuesto que deberías usar tu propio path o ruta de Vivado).
  
 Si prefiere puede ver este video para la configuración del path de vivado [video](https://drive.google.com/file/d/13SeEx4Z_3RK7wGHfiwuvrs2e9uZLPhrI/view?usp=sharing)
 
-debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
+Debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
  
 #### 2. Pruebas básicas de sintetización
-Una vez se tenga  instaldo el framwork y el compilador  proceda a :
+Una vez se tenga instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
 
@@ -48,13 +50,13 @@ Una vez se tenga  instaldo el framwork y el compilador  proceda a :
     Para la tarjeta zybo debe  comentar la linea 8 y 10 descomentando la linea 9. ver imagen a continuación
   ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im3lab3.png)
   
-     Adicional para la tarjeta zybo  comentar las lineas 63 a 72 como se aprecia en la imagen:
+     Adicional para la tarjeta zybo  comentar las lineas 58 a 72 como se aprecia en la imagen:
   ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im5lab3.png)
     
 
 3. Ingresar en un terminal a la carpeta ´SoC_project´
 4. Ejecutar       ` python3 buildSoCproject.py `
-5. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/nexys4ddr/gateware/nexys4ddr.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
+5. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
 
@@ -67,7 +69,8 @@ Para recordar que es compilación cruzada se recomienda ver este [documento](htt
 1. Ir a la carpeta  firmware
 2. Ejecutar `make all`  revise el archivo makefile y comprenda se contenido 
 3. Salir de la carpeta firmware  
-4. Ejecutar `litex_term.py /dev/ttyUSB1 --kernel firmware/firmware.bin` recuerde que el puerto depende de donde este conectada la tarjeta de desarrollo.
+4. Ejecutar `litex_term /dev/ttyUSB1 --kernel firmware/firmware.bin` recuerde que el puerto depende de donde este conectada la tarjeta de desarrollo. 
+   
 
 ***Recuerde que debe estar atento de revisar en consolar que fallos en los paso salen , y correguir antes de continuar con el paso siguiente***
 
