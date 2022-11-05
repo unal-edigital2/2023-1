@@ -39,7 +39,8 @@ Si prefiere puede ver este video para la configuración del path de vivado [vide
 
 Debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
  
-#### 2. Pruebas básicas de sintetización
+#### 2. Pruebas básicas de sintetización y programación del procesador en la FPGA
+
 Una vez se tenga instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
@@ -60,9 +61,18 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
 
-En este punto usted tiene un SoC básico programado en la FPGA, y por lo tanto, se debe configurar y cargar el firmware
+A esta altura del laboratorio, la tarjeta de desarrollo  cuenta con el SoC basado en el procesado VexRisc, un grupo reducidos de perifericos y con la BIOS cargada en la memoria ROM. (recomiendo ver el inicio del video de funcionamiento que se encuenta al final de esta guia). La documentación del procesador VexRiscv se encuentra en este [link](https://github-com.translate.goog/SpinalHDL/VexRiscv?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es). VexRiscv basa en la arquitectura de CPU RISC-V de 32 bits.
 
-#### 3. Pruebas básicas de compilación
+
+Para comprobar si el SoC que configurado en la FPGA, se recomienda abrir el monitor Serial de su preferencia (ej: cutecom) a una tasa de transmisión de 115200 bps, y conectar via puerto serial-USB el SoC. No  olvidar dar los permisos de lectura y escritura a este puerto por medio del comando chmod. Una vez este la conexión establecida reiniciar el procesador por medio del botón reset del mismo. Si en la consola de  monitor serial visualiza  texto como el de la siguiente imagen, indica que se puede interactuar con la BIOS del procesador, como se explica en el video, ejemplo envie el comando `leds 7`.  
+
+![imagen](https://github.com/enjoy-digital/litex/blob/master/doc/bios_screenshot.png)
+
+**Recuerde que si tiene la tarjeta de desarrollo ZYBO debe  conectar el puerto serial del adaptador serial2USB.**
+
+Una vez se tenga completo conocimiento que la FPGA aloja el SoC y este funciona correctamente, podemos dar paso a la compilación de la aplicación. Como se observa en la [documentación de litex](https://github.com/enjoy-digital/litex/wiki/Load-Application-Code-To-CPU), el procesador cuenta con el gestor de aranque, bootloader, que permita cargar via puerto serial el código de la aplicación en software que se implementa. Para una mejor comprensión se recomienda ver el segundo video que esta al final de esta  guia.
+
+#### 3. Pruebas básicas de compilación del firware
 
 Para recordar que es compilación cruzada se recomienda ver este [documento](https://github.com/unal-edigital2/2021-2/blob/master/slides/week8_digital2.pdf) y para cargar el firmware al SoC riscv proceda a 
 
@@ -83,4 +93,6 @@ Al terminar los procesos anteriores se debe tener un procesador  con un firmware
 
 ### video de la clase  explicando el lab
 
-[video 12 de octubre de 2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
+[video  Explicación del laboratorio  12 octubre  2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
+
+[video  de funcionamiento del laboratio 3 de noviembre 2022](https://drive.google.com/file/d/1U3sdJrwGRJ3FJZ1nP9PYL3qFEwdII3Sv/view?usp=sharing)
