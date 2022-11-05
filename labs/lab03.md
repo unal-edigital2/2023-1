@@ -93,6 +93,6 @@ Al terminar los procesos anteriores se debe tener un procesador  con un firmware
 
 ### video de la clase  explicando el lab
 
-[video  Explicación del laboratorio  12 octubre  2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
+[Video: Explicación del laboratorio  12 octubre  2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
 
-[video  de funcionamiento del laboratio 3 de noviembre 2022](https://drive.google.com/file/d/1U3sdJrwGRJ3FJZ1nP9PYL3qFEwdII3Sv/view?usp=sharing)
+[Video: Funcionamiento del SoC 3 de noviembre 2022](https://drive.google.com/file/d/1U3sdJrwGRJ3FJZ1nP9PYL3qFEwdII3Sv/view?usp=sharing)
