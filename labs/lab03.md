@@ -54,19 +54,20 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
      Adicional para la tarjeta zybo  comentar las lineas 58 a 72 como se aprecia en la imagen:
   ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im5lab3.png)
  
-3. Revise que la confiuración del reloj de las tarjetas que esta usando corresponda a lo escrito en el archivo `builSocproject.py`. En la tarjeta ZYBO es de 125Mhz, y para las Nexys de 100Mhz
+3. Revise que la configuración del reloj de las tarjetas que esta usando corresponda a lo escrito en el archivo `builSocproject.py`. En la tarjeta ZYBO es de 125Mhz, y para las Nexys de 100Mhz
 
+4. Tenga encuenta que según el boton de que se configure para la cpu_reset, debe quitar la negación en la descripción de Clock Reset Generation  `~platform.request("cpu_reset")` 
 ##### Sintetización
 
-4. Ingresar en un terminal a la carpeta ´SoC_project´
-5. Ejecutar       ` python3 buildSoCproject.py `
+5. Ingresar en un terminal a la carpeta ´SoC_project´
+6. Ejecutar       ` python3 buildSoCproject.py `
 
 ##### Load Bitstream
 
-Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
+7. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
 
     Para las tarjetas ZYBO, deben cargar el bitstream, por medio de vivado, por lo que se recomienda  
-    ejecutar el script [load_zybo.py](https://github.com/unal-edigital2/WP04_SoC_initial/blob/main/SoC_project/load_zybo.py) que se encuentra en el repositorio del laboratorio. 
+    ejecutar el script load_zybo.py que se encuentra en el repositorio del laboratorio. 
     En la Terminal escriba: `python3 load_zybo.py`
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
