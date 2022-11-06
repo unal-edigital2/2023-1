@@ -40,7 +40,7 @@ Si prefiere puede ver este video para la configuración del path de vivado [vide
 Debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
  
 #### 2. Pruebas básicas de sintetización y programación del procesador en la FPGA
-
+##### configuración
 Una vez se tenga instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Según la tarjeta que use en el archivo buildSoCproject.py modifique:
@@ -54,12 +54,19 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
      Adicional para la tarjeta zybo  comentar las lineas 58 a 72 como se aprecia en la imagen:
   ![image](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/im5lab3.png)
     
+##### sintetización
 
 3. Ingresar en un terminal a la carpeta ´SoC_project´
 4. Ejecutar       ` python3 buildSoCproject.py `
-5. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta que usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`
+
+##### load Bitstream
+
+Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
+
+**Para las tarjetas ZYBO, deben cargar el bitstream, por medio de vivado, por lo que se recomienda  ejecutar le script load_zybo.py que se encuentra en el repositorio. `python3 load_zybo.py`**
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
+
 
 A esta altura del laboratorio, la tarjeta de desarrollo  cuenta con el SoC basado en el procesado VexRisc, un grupo reducidos de perifericos y con la BIOS cargada en la memoria ROM. (recomiendo ver el inicio del video de funcionamiento que se encuenta al final de esta guia). La documentación del procesador VexRiscv se encuentra en este [link](https://github-com.translate.goog/SpinalHDL/VexRiscv?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es). VexRiscv se basa en la arquitectura de CPU RISC-V de 32 bits.
 
