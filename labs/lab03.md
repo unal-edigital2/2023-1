@@ -65,7 +65,7 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
 
 ##### Load Bitstream
 
-7. Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
+Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
 
     Para las tarjetas ZYBO, deben cargar el bitstream, por medio de vivado, por lo que se recomienda  
     ejecutar el script load_zybo.py que se encuentra en el repositorio del laboratorio. 
