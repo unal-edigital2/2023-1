@@ -65,9 +65,9 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
 
 Conectar la tarjeta  y ejecutar `djtgcfg prog -d NexysA7 -i 0 -f ./build/gateware/top.bit`. Debe remplazar NexysA7 por el nombre de la tarjeta NexysA7 por la usted tienes. Ahora bien para saber el nombre de su tarjeta, ejecute el comando `djtgcfg enum`.
 
-    Para las tarjetas ZYBO, deben cargar el bitstream, por medio de vivado, 
-    por lo que se recomienda  ejecutar el script load_zybo.py que se encuentra 
-    en el repositorio, en la terminar escriba: `python3 load_zybo.py`
+    Para las tarjetas ZYBO, deben cargar el bitstream, por medio de vivado, por lo que se recomienda  
+    ejecutar el script [load_zybo.py](https://github.com/unal-edigital2/WP04_SoC_initial/blob/main/SoC_project/load_zybo.py) que se encuentra en el repositorio del laboratorio. 
+    En la Terminal escriba: `python3 load_zybo.py`
 
 Nota: Si no tiene instalado los driver de digilent adept o el  comando djtgcfg genera error,  por favor reinstalar las driver de Utilities  y Runtime, para ello descargarlos de este [link](https://digilent.com/reference/software/adept/start)
 
