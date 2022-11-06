@@ -40,7 +40,7 @@ Si prefiere puede ver este video para la configuración del path de vivado [vide
 Debe realizar el mismo proceso con la ruta del compilador de riscV, si desea puede ver este [video](https://drive.google.com/file/d/1yv9FQoa4uNp4IZPggvnfchumChwpKurf/view?usp=sharing)
  
 #### 2. Pruebas básicas de sintetización y programación del procesador en la FPGA
-##### Configuración
+##### Configuración archivo buildSoCproject.py
 Una vez se tenga instaldo el framwork y el compilador  proceda a :
 1. Descargar el paquete de trabajo de este laboratorio.
 2. Según la tarjeta que use en el archivo `buildSoCproject.py` modifique:
@@ -56,7 +56,8 @@ Una vez se tenga instaldo el framwork y el compilador  proceda a :
  
 3. Revise que la configuración del reloj de las tarjetas que esta usando corresponda a lo escrito en el archivo `builSocproject.py`. En la tarjeta ZYBO es de 125Mhz, y para las Nexys de 100Mhz
 
-4. Tenga encuenta que según el boton de que se configure para la cpu_reset, debe quitar la negación en la descripción de Clock Reset Generation  `~platform.request("cpu_reset")` 
+4. Tenga encuenta que según el boton que configure para la cpu_reset, debe quitar la negación en la descripción de Clock Reset Generation  `~platform.request("cpu_reset")` 
+
 ##### Sintetización
 
 5. Ingresar en un terminal a la carpeta ´SoC_project´
