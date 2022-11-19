@@ -109,3 +109,13 @@ Al terminar los procesos anteriores se debe tener un procesador  con un firmware
 [Video: Explicación del laboratorio  12 octubre  2022](https://drive.google.com/file/d/1lUn0W8sr-qPIHxGviVugAuhj7UPhIvZW/view?usp=sharing)
 
 [Video: Funcionamiento del SoC 3 de noviembre 2022](https://drive.google.com/file/d/1U3sdJrwGRJ3FJZ1nP9PYL3qFEwdII3Sv/view?usp=sharing)
+
+### Y Ahora
+
+en este punto ya  queda empezar a construir el SoC para cada proyecto y  por lo tanto, se recomienda  ver los siguientes ejemplo 
+
+WP    | Tema |  Repositorio | --  
+--    | --   | --  | --   
+02    | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link repositorio](https://github.com/unal-edigital2/WP02_SoC_include_uart_pwm_gpio)  | --  
+03    | Adición de periféricos escritos en verilog.  | [link repositorio ](https://github.com/unal-edigital2/WP03_SoC_include_verilog) | [video primera parte](https://drive.google.com/file/d/1dF2ubHnqWjsFFVVeYB71-etwXkDYdnr0/view?usp=sharing) [video segunda parte](https://drive.google.com/file/d/1F-0olLOCx6QSuNrsm5MJVBPeSGDumDqC/view?usp=sharing)
+04    | SoC con interrupciones.  | [link repositorio](https://github.com/unal-edigital2/WP04_SoC_include_interrupt) | --
