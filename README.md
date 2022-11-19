@@ -100,7 +100,7 @@ WP    | Tema |  Repositorio | videos
 --    | --   | --  | --   
 02    | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link repositorio](https://github.com/unal-edigital2/WP02_SoC_include_uart_pwm_gpio)  | --  
 03    | Adición de periféricos escritos en verilog.  | [link repositorio ](https://github.com/unal-edigital2/WP03_SoC_include_verilog) | [video primera parte](https://drive.google.com/file/d/1dF2ubHnqWjsFFVVeYB71-etwXkDYdnr0/view?usp=sharing) [video segunda parte](https://drive.google.com/file/d/1F-0olLOCx6QSuNrsm5MJVBPeSGDumDqC/view?usp=sharing)
-04    | SoC con interrupciones.  | [link repositorio](https://github.com/unal-edigital2/WP04_SoC_include_interrupt) | --
+04    | SoC con interrupciones.  | [link repositorio](https://github.com/unal-edigital2/WP04_SoC_include_interrupt) | [video interrupciones](https://drive.google.com/drive/folders/1rjKrqaykneIYYfCTADosuYx3hfsQUkal) ,   [video lab](https://drive.google.com/drive/folders/1PJ2twcY08nNWU64irAM4_wnHQ94QZdPi)
 05    | Integración del proyecto y pruebas funcionales  | --
 06    | Presentación  entrega del proyecto | --
 
