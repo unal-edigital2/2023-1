@@ -96,13 +96,13 @@ Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria 
 A continuación se presenta las actividades propuestas para el plan de trabajo 
 
 
-WP  | semana | deadline  | Tema |  Repositorio 
---  | --     | --        | --   |  --  
-02 | W02 |  | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link]()  
-06 | W03 |  | Adición de periféricos escritos en verilog.  |
-05 | W06 |  | SoC con interripciones .  | 
-09 | W08 |  | Integración del proyecto y pruebas funcionales  | 
-10 | W09 |  | Presentación  entrega del proyecto|  [WP08]) 
+WP    | Tema |  Repositorio 
+--       | --        | --   |  --  
+02    | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link](https://github.com/unal-edigital2/WP02_SoC_include_uart_pwm_gpio)  
+03    | Adición de periféricos escritos en verilog.  |[link](https://github.com/unal-edigital2/WP03_SoC_include_verilog)
+04    | SoC con interrupciones.  | (link)[https://github.com/unal-edigital2/WP04_SoC_include_interrupt]
+05    | Integración del proyecto y pruebas funcionales  | 
+06    | Presentación  entrega del proyecto|   
 
 ### Entregas
 
