@@ -97,10 +97,10 @@ A continuación se presenta las actividades propuestas para el plan de trabajo
 
 
 WP    | Tema |  Repositorio 
---       | --        | --   |  --  
+--    | --   | --   
 02    | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link](https://github.com/unal-edigital2/WP02_SoC_include_uart_pwm_gpio)  
-03    | Adición de periféricos escritos en verilog.  |[link](https://github.com/unal-edigital2/WP03_SoC_include_verilog)
-04    | SoC con interrupciones.  | (link)[https://github.com/unal-edigital2/WP04_SoC_include_interrupt]
+03    | Adición de periféricos escritos en verilog.  | [link](https://github.com/unal-edigital2/WP03_SoC_include_verilog)
+04    | SoC con interrupciones.  | [link](https://github.com/unal-edigital2/WP04_SoC_include_interrupt)
 05    | Integración del proyecto y pruebas funcionales  | 
 06    | Presentación  entrega del proyecto|   
 
