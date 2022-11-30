@@ -108,7 +108,7 @@ WP    | Tema |  Repositorio | videos
 
 No de grupo  |  Proyecto Final   
 --           |  --      
-01 | [link](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo01-22-2)
+01 | [Camara seguidora de movimiento](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo01-22-2)
 02 | [calificador inteligene de habitos de conducción](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo02-22-2)
 03 | [PatrolBot](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo03-22-2/tree/main/SoC_project)
 04 | [link](
