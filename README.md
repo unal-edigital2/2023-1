@@ -109,13 +109,21 @@ WP    | Tema |  Repositorio | videos
 No de grupo  |  Proyecto Final   
 --           |  --      
 01 | [Camara seguidora de movimiento](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo01-22-2)
-02 | [calificador inteligene de habitos de conducción](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo02-22-2)
+02 | [calificador inteligente de habitos de conducción](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo02-22-2)
 03 | [PatrolBot](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo03-22-2/tree/main/SoC_project)
-04 | [link](
-05 | [link](
-06 | [link](
-07 | [link](
-08 | [link](
+04 | [Vehículo Dispensador de Medicamentos Hospitalarios](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo04-22-2-final)
+05 | [sistema de clasificacion de la calidad de agua](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo05-22-2)
+06 | [Coche autónomo por Gps](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo06-22-2)
+07 | [Silla de ruedas](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo07-22-2)
+08 | [Sistema recolector de basura para playas](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo08-22-2)
+09 | [frutos caídos en un cultivo](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo09-22-2)
+10 | [Aplicaciones de Vision artificial en un Soc](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo10-22-2)
+11 | [Sistema de alerta por medio de leds infrarrojos](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo11-22-2)
+12 | []()
+13 | [Sistema de alerta de proximidad para que usuarios con visión reducida](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo13-22-2)
+14 | [control de variables  ambientales]()
+
+
 
 
 #### Material que sirve de  guía 
