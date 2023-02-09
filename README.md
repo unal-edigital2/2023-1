@@ -1,11 +1,11 @@
-##   LABORATORIO ELECTRÓNICA DIGITAL 2 2022-2 UNIVERSIDAD NACIONAL DE COLOMBIA 
-###  https://unal-edigital2.github.io/2022-2/
+##   ELECTRÓNICA DIGITAL 2 2023-1 UNIVERSIDAD NACIONAL DE COLOMBIA 
+###  https://unal-edigital2.github.io/2023-1/
 
 ## Profesor Laboratorio:
 	Ferney Alberto Beltrán Molina, Ing, MSc, PhD(c)
 	fabeltranm@unal.edu.co.
 	github: https://github.com/Fabeltranm/
-	https://chat.whatsapp.com/IbI4boc6GWRJnb2A4ktdnB
+	https://chat.whatsapp.com/
 
 ## Años anteriores
 * [2015-2017](https://sites.google.com/site/edigital2unal/)
@@ -14,6 +14,7 @@
 * [2020-2](https://unal-edigital2.github.io/2020-2/)
 * [2021-1](https://unal-edigital2.github.io/2021-1/)
 * [2021-2](https://unal-edigital2.github.io/2021-2/)
+* [2022-2](https://unal-edigital2.github.io/2022-2/)
 
 ## Horario 
 	* Según cada Grupo
@@ -108,25 +109,12 @@ WP    | Tema |  Repositorio | videos
 
 No de grupo  |  Proyecto Final   
 --           |  --      
-01 | [Camara seguidora de movimiento](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo01-22-2)
-02 | [calificador inteligente de habitos de conducción](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo02-22-2)
-03 | [PatrolBot](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo03-22-2/tree/main/SoC_project)
-04 | [Vehículo Dispensador de Medicamentos Hospitalarios](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo04-22-2-final)
-05 | [sistema de clasificacion de la calidad de agua](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo05-22-2)
-06 | [Coche autónomo por Gps](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo06-22-2)
-07 | [Silla de ruedas](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo07-22-2)
-08 | [Sistema recolector de basura para playas](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo08-22-2)
-09 | [frutos caídos en un cultivo](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo09-22-2)
-10 | [Aplicaciones de Vision artificial en un Soc](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo10-22-2)
-11 | [Sistema de alerta por medio de leds infrarrojos](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo11-22-2)
-12 | []()
-13 | [Sistema de alerta de proximidad para que usuarios con visión reducida](https://github.com/unal-edigital2-labs/lab03-2022-2-grupo13-22-2)
-14 | [control de variables  ambientales]()
-
-
 
 
 #### Material que sirve de  guía 
 * https://github.com/pcotret/ENSTAB-RISCV
 * https://github.com/litex-hub/pythondata-cpu-picorv32
 * https://blog.desdelinux.net/guia-rapida-para-utilizar-github/
+
+###  Material de clase
+
