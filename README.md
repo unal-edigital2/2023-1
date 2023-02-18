@@ -89,8 +89,9 @@ Recuerda también revisar que en la página de github se refleja las actualizaci
 Semana   | Tema   | Guia de laboratorio | WP | deadline 
 --       | --     | --            	| -- | --   
 Semana 1 | Instalación linux e instalación Viviado/quartus | [link](./labs/lab00.md) | |
+Semana 1 | fundamentos de git  (opcional)| [fundamentos de git](https://classroom.github.com/a/S1rS7GF7)| |
 Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/nxnHIyQM) |
-Semana 5 | lab procesador j1 | [link](./labs/lab02.md) | [lb02]() |
+Semana 3 | lab procesador j1 | [link](./labs/lab02.md) | [lb02]() |
 Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab03.md) | [lb03]() |
 
 ## Proyecto Definición completa de los periféricos y mapa de memoria Desarrollo 
