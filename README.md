@@ -89,9 +89,9 @@ Recuerda también revisar que en la página de github se refleja las actualizaci
 Semana   | Tema   | Guia de laboratorio | WP | deadline 
 --       | --     | --            	| -- | --   
 Semana 1 | Instalación linux e instalación Viviado/quartus | [link](./labs/lab00.md) | |
-Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/NkduMOs4) |
-Semana 5 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/Xtd6vHQ2) |
-Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab03.md) | [lb03](https://classroom.github.com/a/_fst-5dA) |
+Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/nxnHIyQM) |
+Semana 5 | lab procesador j1 | [link](./labs/lab02.md) | [lb02]() |
+Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab03.md) | [lb03]() |
 
 ## Proyecto Definición completa de los periféricos y mapa de memoria Desarrollo 
 A continuación se presenta las actividades propuestas para el plan de trabajo 
