@@ -11,7 +11,7 @@ En la imagen se observa, los componentes básicos de la unidad de procesamiento,
 
 ![sigin](https://github.com/unal-edigital2/2022-2/blob/master/labs/figs/0_2.png)
 
-En este contexto, en el laboratorio se tiene como objetivo abordar el concepto de procedador y del SoC , a partir  del caso de estudio del procesador J1, para lo cual se estudia :
+En este contexto, en el laboratorio se tiene como objetivo abordar el concepto de procedador y del SoC , a partir  del caso de estudio del procesador J1, para lo cual se estudia:
 
 1. Componentes del procesador y Ciclos de Ejecución de las instrucciones.
 2. Interface SW/HW, compilación cruzada 
@@ -21,7 +21,7 @@ En este contexto, en el laboratorio se tiene como objetivo abordar el concepto d
 
 # Desarrollo
 
-Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, cuenta con 16 operaciones logico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
+Para este laboratorio, su utiliza el procesador J1, procesador tipo pila de 16 bits, cuenta con 16 operaciones lógico-aritmeticas, el resumen se encuetra  en el [ji.pdf](https://www.excamera.com/files/j1.pdf) y el procesor base es de [James Bowman](https://github.com/jamesbowman/j1)
 
 De igual manera, para mas información puede ver los siguientes [slides](https://github.com/unal-edigital2/2021-2/tree/master/slides/week02)
 
