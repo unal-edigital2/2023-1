@@ -93,7 +93,7 @@ Semana 1 | fundamentos de git  (opcional)| [fundamentos de git](https://classroo
 Semana 2 | Configuración Vivado -ALU | [link](./labs/lab01.md) | [lb01](https://classroom.github.com/a/nxnHIyQM) |
 Semana 3 | lab procesador j1 | [link](./labs/lab02.md) | [lb02](https://classroom.github.com/a/kcsD3_od) |
 Semana 4 | add periferico a j1 | [link](./labs/lab03.md) | [lb03]() |
-Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab04.md) | [lb04](https://classroom.github.com/a/KTh5Jappunal-edigital2/WP01_SoC_initial) |
+Semana 7 | PROYECTO: Definición completa de los periféricos y mapa de memoria e instalación litex | [link](./labs/lab04.md) | [lb04](https://classroom.github.com/a/KTh5Japp) |
 
 ## Proyecto Definición completa de los periféricos y mapa de memoria Desarrollo 
 A continuación se presenta las actividades propuestas para el plan de trabajo 
@@ -103,7 +103,7 @@ WP    | Tema |  Repositorio | videos
 --    | --   | --  | --   
 02    | Construcción de perifericos en litex  y configuración de los registros CSR en Software| [link repositorio](https://github.com/unal-edigital2/WP02_SoC_include_uart_pwm_gpio)  | --  
 03    | Adición de periféricos escritos en verilog.  | [link repositorio ](https://github.com/unal-edigital2/WP03_SoC_include_verilog) | [video primera parte](https://drive.google.com/file/d/1dF2ubHnqWjsFFVVeYB71-etwXkDYdnr0/view?usp=sharing) [video segunda parte](https://drive.google.com/file/d/1F-0olLOCx6QSuNrsm5MJVBPeSGDumDqC/view?usp=sharing)
-04    | SoC con interrupciones.  | [link repositorio](https://github.com/unal-edigital2/WP04_SoC_include_interrupt) | [video interrupciones](https://drive.google.com/drive/folders/1rjKrqaykneIYYfCTADosuYx3hfsQUkal) ,   [video lab](https://drive.google.com/drive/folders/1PJ2twcY08nNWU64irAM4_wnHQ94QZdPi)
+04    | SoC con interrupciones.  | [link repositorio](https://github.com/unal-edigital2/WP04_SoC_include_interrupt) | [video interrupciones](https://drive.google.com/drive/folders/1rjKrqaykneIYYfCTADosuYx3hfsQUkal) ,   [video lab]()
 05    | Integración del proyecto y pruebas funcionales  | --
 06    | Presentación  entrega del proyecto | --
 
