@@ -1,4 +1,4 @@
-## Laboratorio 02: Introducción al set de intrsucciones  y al SoC: Caso procesador J1 
+## Laboratorio : Introducción al set de intrsucciones  y al SoC: Caso procesador J1 
 
 # Introducción
 
